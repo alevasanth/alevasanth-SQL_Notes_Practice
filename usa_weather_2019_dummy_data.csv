@@ -1,0 +1,3651 @@
+Weather_id,date,city,state,temperature_c
+,2019-01-01,New York,New York,-7.60
+,2019-01-01,Los Angeles,California,9.00
+,2019-01-01,Chicago,Illinois,-3.80
+,2019-01-01,Houston,Texas,-6.50
+,2019-01-01,Phoenix,Arizona,-1.70
+,2019-01-01,Philadelphia,Pennsylvania,-7.90
+,2019-01-01,San Antonio,Texas,6.80
+,2019-01-01,San Diego,California,10.20
+,2019-01-01,Dallas,Texas,14.60
+,2019-01-01,San Jose,California,5.90
+,2019-01-02,New York,New York,-4.60
+,2019-01-02,Los Angeles,California,3.70
+,2019-01-02,Chicago,Illinois,3.60
+,2019-01-02,Houston,Texas,-4.10
+,2019-01-02,Phoenix,Arizona,-7.20
+,2019-01-02,Philadelphia,Pennsylvania,2.50
+,2019-01-02,San Antonio,Texas,-6.20
+,2019-01-02,San Diego,California,3.30
+,2019-01-02,Dallas,Texas,-0.30
+,2019-01-02,San Jose,California,7.20
+,2019-01-03,New York,New York,-0.70
+,2019-01-03,Los Angeles,California,13.70
+,2019-01-03,Chicago,Illinois,9.40
+,2019-01-03,Houston,Texas,5.20
+,2019-01-03,Phoenix,Arizona,5.40
+,2019-01-03,Philadelphia,Pennsylvania,6.10
+,2019-01-03,San Antonio,Texas,-3.30
+,2019-01-03,San Diego,California,8.80
+,2019-01-03,Dallas,Texas,-2.80
+,2019-01-03,San Jose,California,7.70
+,2019-01-04,New York,New York,-8.40
+,2019-01-04,Los Angeles,California,7.20
+,2019-01-04,Chicago,Illinois,3.80
+,2019-01-04,Houston,Texas,3.80
+,2019-01-04,Phoenix,Arizona,-1.30
+,2019-01-04,Philadelphia,Pennsylvania,-5.70
+,2019-01-04,San Antonio,Texas,3.50
+,2019-01-04,San Diego,California,-8.70
+,2019-01-04,Dallas,Texas,10.60
+,2019-01-04,San Jose,California,7.80
+,2019-01-05,New York,New York,-8.90
+,2019-01-05,Los Angeles,California,-8.10
+,2019-01-05,Chicago,Illinois,-9.70
+,2019-01-05,Houston,Texas,14.90
+,2019-01-05,Phoenix,Arizona,5.00
+,2019-01-05,Philadelphia,Pennsylvania,-5.50
+,2019-01-05,San Antonio,Texas,-0.90
+,2019-01-05,San Diego,California,11.60
+,2019-01-05,Dallas,Texas,1.30
+,2019-01-05,San Jose,California,14.30
+,2019-01-06,New York,New York,-6.60
+,2019-01-06,Los Angeles,California,7.90
+,2019-01-06,Chicago,Illinois,13.00
+,2019-01-06,Houston,Texas,13.40
+,2019-01-06,Phoenix,Arizona,13.40
+,2019-01-06,Philadelphia,Pennsylvania,6.80
+,2019-01-06,San Antonio,Texas,13.50
+,2019-01-06,San Diego,California,3.10
+,2019-01-06,Dallas,Texas,1.20
+,2019-01-06,San Jose,California,-9.20
+,2019-01-07,New York,New York,11.50
+,2019-01-07,Los Angeles,California,-5.40
+,2019-01-07,Chicago,Illinois,8.20
+,2019-01-07,Houston,Texas,14.20
+,2019-01-07,Phoenix,Arizona,12.50
+,2019-01-07,Philadelphia,Pennsylvania,10.90
+,2019-01-07,San Antonio,Texas,4.80
+,2019-01-07,San Diego,California,-1.00
+,2019-01-07,Dallas,Texas,-5.90
+,2019-01-07,San Jose,California,1.00
+,2019-01-08,New York,New York,9.00
+,2019-01-08,Los Angeles,California,1.10
+,2019-01-08,Chicago,Illinois,-6.70
+,2019-01-08,Houston,Texas,-5.40
+,2019-01-08,Phoenix,Arizona,14.90
+,2019-01-08,Philadelphia,Pennsylvania,-3.30
+,2019-01-08,San Antonio,Texas,11.90
+,2019-01-08,San Diego,California,-5.90
+,2019-01-08,Dallas,Texas,13.70
+,2019-01-08,San Jose,California,0.00
+,2019-01-09,New York,New York,6.30
+,2019-01-09,Los Angeles,California,7.80
+,2019-01-09,Chicago,Illinois,0.00
+,2019-01-09,Houston,Texas,12.80
+,2019-01-09,Phoenix,Arizona,-8.70
+,2019-01-09,Philadelphia,Pennsylvania,2.40
+,2019-01-09,San Antonio,Texas,-3.80
+,2019-01-09,San Diego,California,-1.30
+,2019-01-09,Dallas,Texas,8.50
+,2019-01-09,San Jose,California,-1.00
+,2019-01-10,New York,New York,5.80
+,2019-01-10,Los Angeles,California,14.40
+,2019-01-10,Chicago,Illinois,0.60
+,2019-01-10,Houston,Texas,-8.40
+,2019-01-10,Phoenix,Arizona,-8.00
+,2019-01-10,Philadelphia,Pennsylvania,-4.90
+,2019-01-10,San Antonio,Texas,-2.80
+,2019-01-10,San Diego,California,-0.50
+,2019-01-10,Dallas,Texas,10.90
+,2019-01-10,San Jose,California,-7.90
+,2019-01-11,New York,New York,10.50
+,2019-01-11,Los Angeles,California,10.40
+,2019-01-11,Chicago,Illinois,-1.70
+,2019-01-11,Houston,Texas,6.90
+,2019-01-11,Phoenix,Arizona,14.60
+,2019-01-11,Philadelphia,Pennsylvania,14.00
+,2019-01-11,San Antonio,Texas,6.70
+,2019-01-11,San Diego,California,12.30
+,2019-01-11,Dallas,Texas,-1.30
+,2019-01-11,San Jose,California,5.80
+,2019-01-12,New York,New York,-5.30
+,2019-01-12,Los Angeles,California,-1.30
+,2019-01-12,Chicago,Illinois,14.60
+,2019-01-12,Houston,Texas,8.80
+,2019-01-12,Phoenix,Arizona,10.80
+,2019-01-12,Philadelphia,Pennsylvania,-6.40
+,2019-01-12,San Antonio,Texas,-9.60
+,2019-01-12,San Diego,California,11.40
+,2019-01-12,Dallas,Texas,7.80
+,2019-01-12,San Jose,California,11.40
+,2019-01-13,New York,New York,11.50
+,2019-01-13,Los Angeles,California,9.90
+,2019-01-13,Chicago,Illinois,1.90
+,2019-01-13,Houston,Texas,-7.70
+,2019-01-13,Phoenix,Arizona,-2.20
+,2019-01-13,Philadelphia,Pennsylvania,6.00
+,2019-01-13,San Antonio,Texas,4.60
+,2019-01-13,San Diego,California,-3.30
+,2019-01-13,Dallas,Texas,-8.60
+,2019-01-13,San Jose,California,12.80
+,2019-01-14,New York,New York,-2.40
+,2019-01-14,Los Angeles,California,-1.70
+,2019-01-14,Chicago,Illinois,-8.60
+,2019-01-14,Houston,Texas,-9.30
+,2019-01-14,Phoenix,Arizona,-6.80
+,2019-01-14,Philadelphia,Pennsylvania,-7.50
+,2019-01-14,San Antonio,Texas,-5.90
+,2019-01-14,San Diego,California,-6.20
+,2019-01-14,Dallas,Texas,-2.20
+,2019-01-14,San Jose,California,4.00
+,2019-01-15,New York,New York,-1.30
+,2019-01-15,Los Angeles,California,-1.30
+,2019-01-15,Chicago,Illinois,5.30
+,2019-01-15,Houston,Texas,-8.20
+,2019-01-15,Phoenix,Arizona,4.90
+,2019-01-15,Philadelphia,Pennsylvania,-2.20
+,2019-01-15,San Antonio,Texas,-3.70
+,2019-01-15,San Diego,California,3.10
+,2019-01-15,Dallas,Texas,3.90
+,2019-01-15,San Jose,California,4.90
+,2019-01-16,New York,New York,5.10
+,2019-01-16,Los Angeles,California,-8.10
+,2019-01-16,Chicago,Illinois,4.00
+,2019-01-16,Houston,Texas,-0.30
+,2019-01-16,Phoenix,Arizona,-4.80
+,2019-01-16,Philadelphia,Pennsylvania,-0.50
+,2019-01-16,San Antonio,Texas,-5.40
+,2019-01-16,San Diego,California,2.20
+,2019-01-16,Dallas,Texas,-8.50
+,2019-01-16,San Jose,California,-8.90
+,2019-01-17,New York,New York,6.70
+,2019-01-17,Los Angeles,California,-8.20
+,2019-01-17,Chicago,Illinois,4.80
+,2019-01-17,Houston,Texas,8.60
+,2019-01-17,Phoenix,Arizona,11.20
+,2019-01-17,Philadelphia,Pennsylvania,2.80
+,2019-01-17,San Antonio,Texas,-6.90
+,2019-01-17,San Diego,California,-4.20
+,2019-01-17,Dallas,Texas,-3.20
+,2019-01-17,San Jose,California,10.80
+,2019-01-18,New York,New York,9.00
+,2019-01-18,Los Angeles,California,-3.50
+,2019-01-18,Chicago,Illinois,11.80
+,2019-01-18,Houston,Texas,-3.90
+,2019-01-18,Phoenix,Arizona,-8.70
+,2019-01-18,Philadelphia,Pennsylvania,3.00
+,2019-01-18,San Antonio,Texas,1.90
+,2019-01-18,San Diego,California,12.50
+,2019-01-18,Dallas,Texas,-1.40
+,2019-01-18,San Jose,California,11.20
+,2019-01-19,New York,New York,-7.90
+,2019-01-19,Los Angeles,California,-7.30
+,2019-01-19,Chicago,Illinois,9.60
+,2019-01-19,Houston,Texas,11.60
+,2019-01-19,Phoenix,Arizona,-0.90
+,2019-01-19,Philadelphia,Pennsylvania,-7.50
+,2019-01-19,San Antonio,Texas,11.50
+,2019-01-19,San Diego,California,-7.20
+,2019-01-19,Dallas,Texas,-7.10
+,2019-01-19,San Jose,California,0.60
+,2019-01-20,New York,New York,-9.30
+,2019-01-20,Los Angeles,California,-6.90
+,2019-01-20,Chicago,Illinois,-9.60
+,2019-01-20,Houston,Texas,0.30
+,2019-01-20,Phoenix,Arizona,1.80
+,2019-01-20,Philadelphia,Pennsylvania,-7.90
+,2019-01-20,San Antonio,Texas,-4.60
+,2019-01-20,San Diego,California,8.90
+,2019-01-20,Dallas,Texas,-5.10
+,2019-01-20,San Jose,California,1.10
+,2019-01-21,New York,New York,-1.70
+,2019-01-21,Los Angeles,California,-4.40
+,2019-01-21,Chicago,Illinois,-2.10
+,2019-01-21,Houston,Texas,-6.30
+,2019-01-21,Phoenix,Arizona,6.00
+,2019-01-21,Philadelphia,Pennsylvania,3.20
+,2019-01-21,San Antonio,Texas,-5.20
+,2019-01-21,San Diego,California,14.50
+,2019-01-21,Dallas,Texas,-6.10
+,2019-01-21,San Jose,California,11.30
+,2019-01-22,New York,New York,6.60
+,2019-01-22,Los Angeles,California,-4.20
+,2019-01-22,Chicago,Illinois,8.70
+,2019-01-22,Houston,Texas,-8.60
+,2019-01-22,Phoenix,Arizona,2.30
+,2019-01-22,Philadelphia,Pennsylvania,2.10
+,2019-01-22,San Antonio,Texas,4.90
+,2019-01-22,San Diego,California,-7.70
+,2019-01-22,Dallas,Texas,13.50
+,2019-01-22,San Jose,California,13.80
+,2019-01-23,New York,New York,3.10
+,2019-01-23,Los Angeles,California,6.50
+,2019-01-23,Chicago,Illinois,2.00
+,2019-01-23,Houston,Texas,2.50
+,2019-01-23,Phoenix,Arizona,-1.40
+,2019-01-23,Philadelphia,Pennsylvania,9.60
+,2019-01-23,San Antonio,Texas,-6.50
+,2019-01-23,San Diego,California,13.90
+,2019-01-23,Dallas,Texas,11.00
+,2019-01-23,San Jose,California,-7.70
+,2019-01-24,New York,New York,0.70
+,2019-01-24,Los Angeles,California,-7.40
+,2019-01-24,Chicago,Illinois,-1.30
+,2019-01-24,Houston,Texas,7.40
+,2019-01-24,Phoenix,Arizona,0.40
+,2019-01-24,Philadelphia,Pennsylvania,-6.20
+,2019-01-24,San Antonio,Texas,8.60
+,2019-01-24,San Diego,California,1.40
+,2019-01-24,Dallas,Texas,-6.80
+,2019-01-24,San Jose,California,0.00
+,2019-01-25,New York,New York,-4.90
+,2019-01-25,Los Angeles,California,4.90
+,2019-01-25,Chicago,Illinois,13.50
+,2019-01-25,Houston,Texas,0.60
+,2019-01-25,Phoenix,Arizona,10.10
+,2019-01-25,Philadelphia,Pennsylvania,9.90
+,2019-01-25,San Antonio,Texas,-2.80
+,2019-01-25,San Diego,California,5.00
+,2019-01-25,Dallas,Texas,4.00
+,2019-01-25,San Jose,California,-1.40
+,2019-01-26,New York,New York,5.80
+,2019-01-26,Los Angeles,California,-0.90
+,2019-01-26,Chicago,Illinois,12.40
+,2019-01-26,Houston,Texas,8.30
+,2019-01-26,Phoenix,Arizona,5.40
+,2019-01-26,Philadelphia,Pennsylvania,10.90
+,2019-01-26,San Antonio,Texas,7.00
+,2019-01-26,San Diego,California,8.00
+,2019-01-26,Dallas,Texas,9.40
+,2019-01-26,San Jose,California,8.10
+,2019-01-27,New York,New York,-1.40
+,2019-01-27,Los Angeles,California,-4.20
+,2019-01-27,Chicago,Illinois,-5.00
+,2019-01-27,Houston,Texas,11.40
+,2019-01-27,Phoenix,Arizona,8.30
+,2019-01-27,Philadelphia,Pennsylvania,3.60
+,2019-01-27,San Antonio,Texas,-4.90
+,2019-01-27,San Diego,California,3.30
+,2019-01-27,Dallas,Texas,-2.40
+,2019-01-27,San Jose,California,10.60
+,2019-01-28,New York,New York,4.60
+,2019-01-28,Los Angeles,California,8.20
+,2019-01-28,Chicago,Illinois,-5.40
+,2019-01-28,Houston,Texas,-9.80
+,2019-01-28,Phoenix,Arizona,-4.00
+,2019-01-28,Philadelphia,Pennsylvania,-5.70
+,2019-01-28,San Antonio,Texas,8.80
+,2019-01-28,San Diego,California,11.20
+,2019-01-28,Dallas,Texas,-0.30
+,2019-01-28,San Jose,California,-1.50
+,2019-01-29,New York,New York,-9.70
+,2019-01-29,Los Angeles,California,-3.20
+,2019-01-29,Chicago,Illinois,10.40
+,2019-01-29,Houston,Texas,-6.20
+,2019-01-29,Phoenix,Arizona,7.90
+,2019-01-29,Philadelphia,Pennsylvania,14.90
+,2019-01-29,San Antonio,Texas,-7.20
+,2019-01-29,San Diego,California,2.60
+,2019-01-29,Dallas,Texas,5.10
+,2019-01-29,San Jose,California,-0.80
+,2019-01-30,New York,New York,14.80
+,2019-01-30,Los Angeles,California,-7.40
+,2019-01-30,Chicago,Illinois,-5.30
+,2019-01-30,Houston,Texas,0.80
+,2019-01-30,Phoenix,Arizona,-3.70
+,2019-01-30,Philadelphia,Pennsylvania,2.00
+,2019-01-30,San Antonio,Texas,12.20
+,2019-01-30,San Diego,California,-1.60
+,2019-01-30,Dallas,Texas,13.10
+,2019-01-30,San Jose,California,-5.30
+,2019-01-31,New York,New York,9.90
+,2019-01-31,Los Angeles,California,-7.00
+,2019-01-31,Chicago,Illinois,-9.40
+,2019-01-31,Houston,Texas,-7.50
+,2019-01-31,Phoenix,Arizona,10.90
+,2019-01-31,Philadelphia,Pennsylvania,6.80
+,2019-01-31,San Antonio,Texas,6.80
+,2019-01-31,San Diego,California,-7.00
+,2019-01-31,Dallas,Texas,9.10
+,2019-01-31,San Jose,California,1.00
+,2019-02-01,New York,New York,-2.90
+,2019-02-01,Los Angeles,California,9.90
+,2019-02-01,Chicago,Illinois,2.00
+,2019-02-01,Houston,Texas,8.40
+,2019-02-01,Phoenix,Arizona,0.40
+,2019-02-01,Philadelphia,Pennsylvania,-7.30
+,2019-02-01,San Antonio,Texas,-4.90
+,2019-02-01,San Diego,California,-9.90
+,2019-02-01,Dallas,Texas,-4.30
+,2019-02-01,San Jose,California,9.60
+,2019-02-02,New York,New York,-6.80
+,2019-02-02,Los Angeles,California,12.20
+,2019-02-02,Chicago,Illinois,9.10
+,2019-02-02,Houston,Texas,2.40
+,2019-02-02,Phoenix,Arizona,11.40
+,2019-02-02,Philadelphia,Pennsylvania,-6.00
+,2019-02-02,San Antonio,Texas,13.20
+,2019-02-02,San Diego,California,5.70
+,2019-02-02,Dallas,Texas,11.50
+,2019-02-02,San Jose,California,-6.60
+,2019-02-03,New York,New York,10.50
+,2019-02-03,Los Angeles,California,5.20
+,2019-02-03,Chicago,Illinois,10.80
+,2019-02-03,Houston,Texas,10.80
+,2019-02-03,Phoenix,Arizona,-0.30
+,2019-02-03,Philadelphia,Pennsylvania,13.00
+,2019-02-03,San Antonio,Texas,1.50
+,2019-02-03,San Diego,California,2.20
+,2019-02-03,Dallas,Texas,2.70
+,2019-02-03,San Jose,California,-9.80
+,2019-02-04,New York,New York,-2.00
+,2019-02-04,Los Angeles,California,0.60
+,2019-02-04,Chicago,Illinois,-8.20
+,2019-02-04,Houston,Texas,-4.30
+,2019-02-04,Phoenix,Arizona,-3.30
+,2019-02-04,Philadelphia,Pennsylvania,14.90
+,2019-02-04,San Antonio,Texas,-7.00
+,2019-02-04,San Diego,California,-1.40
+,2019-02-04,Dallas,Texas,14.70
+,2019-02-04,San Jose,California,14.10
+,2019-02-05,New York,New York,12.50
+,2019-02-05,Los Angeles,California,-5.10
+,2019-02-05,Chicago,Illinois,-7.80
+,2019-02-05,Houston,Texas,-7.60
+,2019-02-05,Phoenix,Arizona,5.00
+,2019-02-05,Philadelphia,Pennsylvania,8.90
+,2019-02-05,San Antonio,Texas,6.90
+,2019-02-05,San Diego,California,-4.50
+,2019-02-05,Dallas,Texas,-2.70
+,2019-02-05,San Jose,California,2.60
+,2019-02-06,New York,New York,-8.20
+,2019-02-06,Los Angeles,California,3.50
+,2019-02-06,Chicago,Illinois,7.10
+,2019-02-06,Houston,Texas,2.40
+,2019-02-06,Phoenix,Arizona,0.50
+,2019-02-06,Philadelphia,Pennsylvania,7.00
+,2019-02-06,San Antonio,Texas,1.90
+,2019-02-06,San Diego,California,5.80
+,2019-02-06,Dallas,Texas,13.60
+,2019-02-06,San Jose,California,3.60
+,2019-02-07,New York,New York,8.10
+,2019-02-07,Los Angeles,California,-2.80
+,2019-02-07,Chicago,Illinois,8.90
+,2019-02-07,Houston,Texas,3.20
+,2019-02-07,Phoenix,Arizona,14.20
+,2019-02-07,Philadelphia,Pennsylvania,-6.10
+,2019-02-07,San Antonio,Texas,11.00
+,2019-02-07,San Diego,California,-5.90
+,2019-02-07,Dallas,Texas,-8.60
+,2019-02-07,San Jose,California,-4.60
+,2019-02-08,New York,New York,-7.00
+,2019-02-08,Los Angeles,California,-2.60
+,2019-02-08,Chicago,Illinois,-9.80
+,2019-02-08,Houston,Texas,6.50
+,2019-02-08,Phoenix,Arizona,10.60
+,2019-02-08,Philadelphia,Pennsylvania,-6.60
+,2019-02-08,San Antonio,Texas,-4.70
+,2019-02-08,San Diego,California,10.40
+,2019-02-08,Dallas,Texas,-2.60
+,2019-02-08,San Jose,California,2.40
+,2019-02-09,New York,New York,-7.60
+,2019-02-09,Los Angeles,California,8.00
+,2019-02-09,Chicago,Illinois,12.10
+,2019-02-09,Houston,Texas,-1.20
+,2019-02-09,Phoenix,Arizona,-4.80
+,2019-02-09,Philadelphia,Pennsylvania,12.90
+,2019-02-09,San Antonio,Texas,-0.10
+,2019-02-09,San Diego,California,5.90
+,2019-02-09,Dallas,Texas,-7.80
+,2019-02-09,San Jose,California,5.90
+,2019-02-10,New York,New York,-4.60
+,2019-02-10,Los Angeles,California,6.90
+,2019-02-10,Chicago,Illinois,1.40
+,2019-02-10,Houston,Texas,0.90
+,2019-02-10,Phoenix,Arizona,6.00
+,2019-02-10,Philadelphia,Pennsylvania,12.10
+,2019-02-10,San Antonio,Texas,-0.90
+,2019-02-10,San Diego,California,10.40
+,2019-02-10,Dallas,Texas,10.80
+,2019-02-10,San Jose,California,4.50
+,2019-02-11,New York,New York,3.60
+,2019-02-11,Los Angeles,California,-7.50
+,2019-02-11,Chicago,Illinois,1.30
+,2019-02-11,Houston,Texas,10.50
+,2019-02-11,Phoenix,Arizona,1.50
+,2019-02-11,Philadelphia,Pennsylvania,9.50
+,2019-02-11,San Antonio,Texas,-9.90
+,2019-02-11,San Diego,California,-5.50
+,2019-02-11,Dallas,Texas,13.90
+,2019-02-11,San Jose,California,5.80
+,2019-02-12,New York,New York,-9.00
+,2019-02-12,Los Angeles,California,-1.80
+,2019-02-12,Chicago,Illinois,1.70
+,2019-02-12,Houston,Texas,0.20
+,2019-02-12,Phoenix,Arizona,4.00
+,2019-02-12,Philadelphia,Pennsylvania,8.60
+,2019-02-12,San Antonio,Texas,-2.40
+,2019-02-12,San Diego,California,-0.10
+,2019-02-12,Dallas,Texas,-3.80
+,2019-02-12,San Jose,California,9.80
+,2019-02-13,New York,New York,3.50
+,2019-02-13,Los Angeles,California,-7.80
+,2019-02-13,Chicago,Illinois,-8.70
+,2019-02-13,Houston,Texas,-0.70
+,2019-02-13,Phoenix,Arizona,12.80
+,2019-02-13,Philadelphia,Pennsylvania,5.10
+,2019-02-13,San Antonio,Texas,5.20
+,2019-02-13,San Diego,California,-1.10
+,2019-02-13,Dallas,Texas,6.50
+,2019-02-13,San Jose,California,8.80
+,2019-02-14,New York,New York,-8.00
+,2019-02-14,Los Angeles,California,10.40
+,2019-02-14,Chicago,Illinois,9.10
+,2019-02-14,Houston,Texas,-8.80
+,2019-02-14,Phoenix,Arizona,4.50
+,2019-02-14,Philadelphia,Pennsylvania,-5.20
+,2019-02-14,San Antonio,Texas,-5.20
+,2019-02-14,San Diego,California,5.60
+,2019-02-14,Dallas,Texas,-9.70
+,2019-02-14,San Jose,California,5.90
+,2019-02-15,New York,New York,-0.40
+,2019-02-15,Los Angeles,California,-4.10
+,2019-02-15,Chicago,Illinois,-9.60
+,2019-02-15,Houston,Texas,0.90
+,2019-02-15,Phoenix,Arizona,-3.50
+,2019-02-15,Philadelphia,Pennsylvania,-1.20
+,2019-02-15,San Antonio,Texas,13.60
+,2019-02-15,San Diego,California,-7.80
+,2019-02-15,Dallas,Texas,-4.60
+,2019-02-15,San Jose,California,14.00
+,2019-02-16,New York,New York,2.50
+,2019-02-16,Los Angeles,California,-3.60
+,2019-02-16,Chicago,Illinois,-2.90
+,2019-02-16,Houston,Texas,8.40
+,2019-02-16,Phoenix,Arizona,14.60
+,2019-02-16,Philadelphia,Pennsylvania,7.90
+,2019-02-16,San Antonio,Texas,5.30
+,2019-02-16,San Diego,California,4.10
+,2019-02-16,Dallas,Texas,10.50
+,2019-02-16,San Jose,California,5.30
+,2019-02-17,New York,New York,9.20
+,2019-02-17,Los Angeles,California,-8.90
+,2019-02-17,Chicago,Illinois,8.20
+,2019-02-17,Houston,Texas,-9.00
+,2019-02-17,Phoenix,Arizona,-7.70
+,2019-02-17,Philadelphia,Pennsylvania,7.00
+,2019-02-17,San Antonio,Texas,-1.60
+,2019-02-17,San Diego,California,-7.50
+,2019-02-17,Dallas,Texas,11.10
+,2019-02-17,San Jose,California,-7.80
+,2019-02-18,New York,New York,-5.40
+,2019-02-18,Los Angeles,California,-5.10
+,2019-02-18,Chicago,Illinois,1.50
+,2019-02-18,Houston,Texas,-5.00
+,2019-02-18,Phoenix,Arizona,9.50
+,2019-02-18,Philadelphia,Pennsylvania,-2.30
+,2019-02-18,San Antonio,Texas,4.70
+,2019-02-18,San Diego,California,3.20
+,2019-02-18,Dallas,Texas,3.10
+,2019-02-18,San Jose,California,-4.00
+,2019-02-19,New York,New York,14.10
+,2019-02-19,Los Angeles,California,5.10
+,2019-02-19,Chicago,Illinois,-1.20
+,2019-02-19,Houston,Texas,0.20
+,2019-02-19,Phoenix,Arizona,5.10
+,2019-02-19,Philadelphia,Pennsylvania,1.90
+,2019-02-19,San Antonio,Texas,2.40
+,2019-02-19,San Diego,California,11.60
+,2019-02-19,Dallas,Texas,10.30
+,2019-02-19,San Jose,California,14.50
+,2019-02-20,New York,New York,7.70
+,2019-02-20,Los Angeles,California,-8.70
+,2019-02-20,Chicago,Illinois,-8.00
+,2019-02-20,Houston,Texas,-9.70
+,2019-02-20,Phoenix,Arizona,-5.10
+,2019-02-20,Philadelphia,Pennsylvania,6.10
+,2019-02-20,San Antonio,Texas,-2.80
+,2019-02-20,San Diego,California,9.40
+,2019-02-20,Dallas,Texas,9.90
+,2019-02-20,San Jose,California,0.70
+,2019-02-21,New York,New York,-2.60
+,2019-02-21,Los Angeles,California,8.60
+,2019-02-21,Chicago,Illinois,4.90
+,2019-02-21,Houston,Texas,-2.10
+,2019-02-21,Phoenix,Arizona,-7.70
+,2019-02-21,Philadelphia,Pennsylvania,-8.40
+,2019-02-21,San Antonio,Texas,0.50
+,2019-02-21,San Diego,California,3.10
+,2019-02-21,Dallas,Texas,-0.40
+,2019-02-21,San Jose,California,-3.60
+,2019-02-22,New York,New York,-5.10
+,2019-02-22,Los Angeles,California,11.40
+,2019-02-22,Chicago,Illinois,-6.50
+,2019-02-22,Houston,Texas,-4.10
+,2019-02-22,Phoenix,Arizona,11.90
+,2019-02-22,Philadelphia,Pennsylvania,-3.70
+,2019-02-22,San Antonio,Texas,13.30
+,2019-02-22,San Diego,California,0.80
+,2019-02-22,Dallas,Texas,7.40
+,2019-02-22,San Jose,California,-3.60
+,2019-02-23,New York,New York,14.00
+,2019-02-23,Los Angeles,California,-3.50
+,2019-02-23,Chicago,Illinois,14.60
+,2019-02-23,Houston,Texas,-3.10
+,2019-02-23,Phoenix,Arizona,12.60
+,2019-02-23,Philadelphia,Pennsylvania,1.40
+,2019-02-23,San Antonio,Texas,-4.10
+,2019-02-23,San Diego,California,-7.10
+,2019-02-23,Dallas,Texas,5.80
+,2019-02-23,San Jose,California,-5.50
+,2019-02-24,New York,New York,14.20
+,2019-02-24,Los Angeles,California,8.80
+,2019-02-24,Chicago,Illinois,-4.60
+,2019-02-24,Houston,Texas,10.40
+,2019-02-24,Phoenix,Arizona,-5.20
+,2019-02-24,Philadelphia,Pennsylvania,-6.30
+,2019-02-24,San Antonio,Texas,-5.60
+,2019-02-24,San Diego,California,10.90
+,2019-02-24,Dallas,Texas,0.20
+,2019-02-24,San Jose,California,0.60
+,2019-02-25,New York,New York,12.80
+,2019-02-25,Los Angeles,California,-2.60
+,2019-02-25,Chicago,Illinois,-4.40
+,2019-02-25,Houston,Texas,9.10
+,2019-02-25,Phoenix,Arizona,3.50
+,2019-02-25,Philadelphia,Pennsylvania,14.40
+,2019-02-25,San Antonio,Texas,-5.60
+,2019-02-25,San Diego,California,-1.20
+,2019-02-25,Dallas,Texas,-6.70
+,2019-02-25,San Jose,California,-2.90
+,2019-02-26,New York,New York,-6.90
+,2019-02-26,Los Angeles,California,10.70
+,2019-02-26,Chicago,Illinois,12.80
+,2019-02-26,Houston,Texas,3.60
+,2019-02-26,Phoenix,Arizona,3.10
+,2019-02-26,Philadelphia,Pennsylvania,3.30
+,2019-02-26,San Antonio,Texas,9.80
+,2019-02-26,San Diego,California,5.90
+,2019-02-26,Dallas,Texas,5.10
+,2019-02-26,San Jose,California,-5.40
+,2019-02-27,New York,New York,-7.60
+,2019-02-27,Los Angeles,California,-8.40
+,2019-02-27,Chicago,Illinois,0.50
+,2019-02-27,Houston,Texas,-1.60
+,2019-02-27,Phoenix,Arizona,2.30
+,2019-02-27,Philadelphia,Pennsylvania,-1.40
+,2019-02-27,San Antonio,Texas,1.30
+,2019-02-27,San Diego,California,9.40
+,2019-02-27,Dallas,Texas,10.20
+,2019-02-27,San Jose,California,4.60
+,2019-02-28,New York,New York,-1.70
+,2019-02-28,Los Angeles,California,9.20
+,2019-02-28,Chicago,Illinois,1.00
+,2019-02-28,Houston,Texas,-9.10
+,2019-02-28,Phoenix,Arizona,-1.00
+,2019-02-28,Philadelphia,Pennsylvania,-9.10
+,2019-02-28,San Antonio,Texas,3.60
+,2019-02-28,San Diego,California,-2.10
+,2019-02-28,Dallas,Texas,-1.80
+,2019-02-28,San Jose,California,-0.40
+,2019-03-01,New York,New York,6.40
+,2019-03-01,Los Angeles,California,20.60
+,2019-03-01,Chicago,Illinois,20.50
+,2019-03-01,Houston,Texas,7.80
+,2019-03-01,Phoenix,Arizona,9.30
+,2019-03-01,Philadelphia,Pennsylvania,14.50
+,2019-03-01,San Antonio,Texas,17.50
+,2019-03-01,San Diego,California,19.00
+,2019-03-01,Dallas,Texas,22.60
+,2019-03-01,San Jose,California,15.60
+,2019-03-02,New York,New York,12.40
+,2019-03-02,Los Angeles,California,8.20
+,2019-03-02,Chicago,Illinois,8.00
+,2019-03-02,Houston,Texas,22.20
+,2019-03-02,Phoenix,Arizona,10.50
+,2019-03-02,Philadelphia,Pennsylvania,17.50
+,2019-03-02,San Antonio,Texas,21.50
+,2019-03-02,San Diego,California,10.00
+,2019-03-02,Dallas,Texas,17.80
+,2019-03-02,San Jose,California,14.10
+,2019-03-03,New York,New York,14.50
+,2019-03-03,Los Angeles,California,11.20
+,2019-03-03,Chicago,Illinois,11.00
+,2019-03-03,Houston,Texas,16.20
+,2019-03-03,Phoenix,Arizona,13.60
+,2019-03-03,Philadelphia,Pennsylvania,22.60
+,2019-03-03,San Antonio,Texas,17.80
+,2019-03-03,San Diego,California,5.30
+,2019-03-03,Dallas,Texas,10.40
+,2019-03-03,San Jose,California,20.10
+,2019-03-04,New York,New York,5.20
+,2019-03-04,Los Angeles,California,22.00
+,2019-03-04,Chicago,Illinois,9.00
+,2019-03-04,Houston,Texas,13.50
+,2019-03-04,Phoenix,Arizona,15.80
+,2019-03-04,Philadelphia,Pennsylvania,14.90
+,2019-03-04,San Antonio,Texas,16.90
+,2019-03-04,San Diego,California,19.10
+,2019-03-04,Dallas,Texas,19.80
+,2019-03-04,San Jose,California,11.00
+,2019-03-05,New York,New York,12.10
+,2019-03-05,Los Angeles,California,15.50
+,2019-03-05,Chicago,Illinois,23.80
+,2019-03-05,Houston,Texas,5.10
+,2019-03-05,Phoenix,Arizona,8.70
+,2019-03-05,Philadelphia,Pennsylvania,23.60
+,2019-03-05,San Antonio,Texas,12.20
+,2019-03-05,San Diego,California,20.90
+,2019-03-05,Dallas,Texas,23.00
+,2019-03-05,San Jose,California,8.20
+,2019-03-06,New York,New York,18.30
+,2019-03-06,Los Angeles,California,8.60
+,2019-03-06,Chicago,Illinois,20.20
+,2019-03-06,Houston,Texas,16.20
+,2019-03-06,Phoenix,Arizona,24.60
+,2019-03-06,Philadelphia,Pennsylvania,10.80
+,2019-03-06,San Antonio,Texas,23.60
+,2019-03-06,San Diego,California,21.40
+,2019-03-06,Dallas,Texas,13.30
+,2019-03-06,San Jose,California,9.50
+,2019-03-07,New York,New York,12.90
+,2019-03-07,Los Angeles,California,11.70
+,2019-03-07,Chicago,Illinois,23.80
+,2019-03-07,Houston,Texas,14.20
+,2019-03-07,Phoenix,Arizona,14.80
+,2019-03-07,Philadelphia,Pennsylvania,18.00
+,2019-03-07,San Antonio,Texas,21.10
+,2019-03-07,San Diego,California,16.70
+,2019-03-07,Dallas,Texas,12.30
+,2019-03-07,San Jose,California,12.20
+,2019-03-08,New York,New York,23.90
+,2019-03-08,Los Angeles,California,16.70
+,2019-03-08,Chicago,Illinois,24.10
+,2019-03-08,Houston,Texas,20.20
+,2019-03-08,Phoenix,Arizona,6.60
+,2019-03-08,Philadelphia,Pennsylvania,17.70
+,2019-03-08,San Antonio,Texas,15.90
+,2019-03-08,San Diego,California,22.90
+,2019-03-08,Dallas,Texas,13.40
+,2019-03-08,San Jose,California,21.00
+,2019-03-09,New York,New York,7.40
+,2019-03-09,Los Angeles,California,7.90
+,2019-03-09,Chicago,Illinois,5.90
+,2019-03-09,Houston,Texas,16.90
+,2019-03-09,Phoenix,Arizona,10.30
+,2019-03-09,Philadelphia,Pennsylvania,24.10
+,2019-03-09,San Antonio,Texas,5.60
+,2019-03-09,San Diego,California,12.70
+,2019-03-09,Dallas,Texas,12.40
+,2019-03-09,San Jose,California,10.30
+,2019-03-10,New York,New York,12.30
+,2019-03-10,Los Angeles,California,21.20
+,2019-03-10,Chicago,Illinois,7.20
+,2019-03-10,Houston,Texas,9.10
+,2019-03-10,Phoenix,Arizona,19.50
+,2019-03-10,Philadelphia,Pennsylvania,21.00
+,2019-03-10,San Antonio,Texas,15.70
+,2019-03-10,San Diego,California,12.30
+,2019-03-10,Dallas,Texas,14.60
+,2019-03-10,San Jose,California,6.80
+,2019-03-11,New York,New York,17.80
+,2019-03-11,Los Angeles,California,17.80
+,2019-03-11,Chicago,Illinois,16.60
+,2019-03-11,Houston,Texas,5.70
+,2019-03-11,Phoenix,Arizona,13.10
+,2019-03-11,Philadelphia,Pennsylvania,16.10
+,2019-03-11,San Antonio,Texas,7.10
+,2019-03-11,San Diego,California,20.90
+,2019-03-11,Dallas,Texas,6.30
+,2019-03-11,San Jose,California,13.30
+,2019-03-12,New York,New York,20.50
+,2019-03-12,Los Angeles,California,11.70
+,2019-03-12,Chicago,Illinois,20.30
+,2019-03-12,Houston,Texas,15.40
+,2019-03-12,Phoenix,Arizona,8.10
+,2019-03-12,Philadelphia,Pennsylvania,11.10
+,2019-03-12,San Antonio,Texas,16.10
+,2019-03-12,San Diego,California,9.10
+,2019-03-12,Dallas,Texas,23.80
+,2019-03-12,San Jose,California,20.80
+,2019-03-13,New York,New York,23.60
+,2019-03-13,Los Angeles,California,5.20
+,2019-03-13,Chicago,Illinois,12.00
+,2019-03-13,Houston,Texas,5.90
+,2019-03-13,Phoenix,Arizona,17.80
+,2019-03-13,Philadelphia,Pennsylvania,9.50
+,2019-03-13,San Antonio,Texas,17.10
+,2019-03-13,San Diego,California,19.20
+,2019-03-13,Dallas,Texas,12.40
+,2019-03-13,San Jose,California,6.60
+,2019-03-14,New York,New York,14.10
+,2019-03-14,Los Angeles,California,18.90
+,2019-03-14,Chicago,Illinois,21.30
+,2019-03-14,Houston,Texas,24.90
+,2019-03-14,Phoenix,Arizona,24.30
+,2019-03-14,Philadelphia,Pennsylvania,23.20
+,2019-03-14,San Antonio,Texas,10.40
+,2019-03-14,San Diego,California,16.80
+,2019-03-14,Dallas,Texas,19.10
+,2019-03-14,San Jose,California,24.70
+,2019-03-15,New York,New York,10.60
+,2019-03-15,Los Angeles,California,15.00
+,2019-03-15,Chicago,Illinois,10.40
+,2019-03-15,Houston,Texas,17.20
+,2019-03-15,Phoenix,Arizona,7.60
+,2019-03-15,Philadelphia,Pennsylvania,17.90
+,2019-03-15,San Antonio,Texas,22.70
+,2019-03-15,San Diego,California,17.00
+,2019-03-15,Dallas,Texas,14.80
+,2019-03-15,San Jose,California,6.20
+,2019-03-16,New York,New York,14.00
+,2019-03-16,Los Angeles,California,24.10
+,2019-03-16,Chicago,Illinois,19.60
+,2019-03-16,Houston,Texas,7.20
+,2019-03-16,Phoenix,Arizona,18.00
+,2019-03-16,Philadelphia,Pennsylvania,20.40
+,2019-03-16,San Antonio,Texas,18.90
+,2019-03-16,San Diego,California,19.90
+,2019-03-16,Dallas,Texas,12.00
+,2019-03-16,San Jose,California,18.20
+,2019-03-17,New York,New York,8.20
+,2019-03-17,Los Angeles,California,21.40
+,2019-03-17,Chicago,Illinois,9.70
+,2019-03-17,Houston,Texas,19.80
+,2019-03-17,Phoenix,Arizona,11.00
+,2019-03-17,Philadelphia,Pennsylvania,23.70
+,2019-03-17,San Antonio,Texas,19.10
+,2019-03-17,San Diego,California,15.60
+,2019-03-17,Dallas,Texas,23.20
+,2019-03-17,San Jose,California,22.60
+,2019-03-18,New York,New York,14.90
+,2019-03-18,Los Angeles,California,16.40
+,2019-03-18,Chicago,Illinois,24.90
+,2019-03-18,Houston,Texas,11.60
+,2019-03-18,Phoenix,Arizona,11.50
+,2019-03-18,Philadelphia,Pennsylvania,5.70
+,2019-03-18,San Antonio,Texas,22.30
+,2019-03-18,San Diego,California,10.90
+,2019-03-18,Dallas,Texas,19.70
+,2019-03-18,San Jose,California,15.10
+,2019-03-19,New York,New York,14.80
+,2019-03-19,Los Angeles,California,16.60
+,2019-03-19,Chicago,Illinois,12.00
+,2019-03-19,Houston,Texas,11.50
+,2019-03-19,Phoenix,Arizona,22.70
+,2019-03-19,Philadelphia,Pennsylvania,17.10
+,2019-03-19,San Antonio,Texas,8.60
+,2019-03-19,San Diego,California,20.90
+,2019-03-19,Dallas,Texas,10.30
+,2019-03-19,San Jose,California,21.70
+,2019-03-20,New York,New York,8.60
+,2019-03-20,Los Angeles,California,19.90
+,2019-03-20,Chicago,Illinois,10.80
+,2019-03-20,Houston,Texas,6.20
+,2019-03-20,Phoenix,Arizona,9.60
+,2019-03-20,Philadelphia,Pennsylvania,8.80
+,2019-03-20,San Antonio,Texas,12.50
+,2019-03-20,San Diego,California,13.50
+,2019-03-20,Dallas,Texas,8.00
+,2019-03-20,San Jose,California,11.40
+,2019-03-21,New York,New York,13.10
+,2019-03-21,Los Angeles,California,15.70
+,2019-03-21,Chicago,Illinois,22.20
+,2019-03-21,Houston,Texas,17.30
+,2019-03-21,Phoenix,Arizona,20.60
+,2019-03-21,Philadelphia,Pennsylvania,21.50
+,2019-03-21,San Antonio,Texas,10.10
+,2019-03-21,San Diego,California,8.70
+,2019-03-21,Dallas,Texas,10.70
+,2019-03-21,San Jose,California,5.20
+,2019-03-22,New York,New York,22.20
+,2019-03-22,Los Angeles,California,21.40
+,2019-03-22,Chicago,Illinois,22.20
+,2019-03-22,Houston,Texas,10.60
+,2019-03-22,Phoenix,Arizona,10.80
+,2019-03-22,Philadelphia,Pennsylvania,5.10
+,2019-03-22,San Antonio,Texas,17.40
+,2019-03-22,San Diego,California,12.10
+,2019-03-22,Dallas,Texas,19.50
+,2019-03-22,San Jose,California,21.70
+,2019-03-23,New York,New York,13.80
+,2019-03-23,Los Angeles,California,24.40
+,2019-03-23,Chicago,Illinois,14.90
+,2019-03-23,Houston,Texas,17.10
+,2019-03-23,Phoenix,Arizona,9.80
+,2019-03-23,Philadelphia,Pennsylvania,22.00
+,2019-03-23,San Antonio,Texas,8.80
+,2019-03-23,San Diego,California,14.20
+,2019-03-23,Dallas,Texas,15.70
+,2019-03-23,San Jose,California,17.50
+,2019-03-24,New York,New York,6.80
+,2019-03-24,Los Angeles,California,19.40
+,2019-03-24,Chicago,Illinois,14.30
+,2019-03-24,Houston,Texas,12.50
+,2019-03-24,Phoenix,Arizona,8.00
+,2019-03-24,Philadelphia,Pennsylvania,8.90
+,2019-03-24,San Antonio,Texas,11.70
+,2019-03-24,San Diego,California,24.00
+,2019-03-24,Dallas,Texas,6.70
+,2019-03-24,San Jose,California,11.60
+,2019-03-25,New York,New York,5.50
+,2019-03-25,Los Angeles,California,17.90
+,2019-03-25,Chicago,Illinois,16.50
+,2019-03-25,Houston,Texas,9.30
+,2019-03-25,Phoenix,Arizona,6.70
+,2019-03-25,Philadelphia,Pennsylvania,21.30
+,2019-03-25,San Antonio,Texas,8.80
+,2019-03-25,San Diego,California,11.20
+,2019-03-25,Dallas,Texas,5.70
+,2019-03-25,San Jose,California,5.20
+,2019-03-26,New York,New York,17.60
+,2019-03-26,Los Angeles,California,12.60
+,2019-03-26,Chicago,Illinois,13.10
+,2019-03-26,Houston,Texas,8.50
+,2019-03-26,Phoenix,Arizona,21.90
+,2019-03-26,Philadelphia,Pennsylvania,23.80
+,2019-03-26,San Antonio,Texas,7.10
+,2019-03-26,San Diego,California,17.50
+,2019-03-26,Dallas,Texas,6.70
+,2019-03-26,San Jose,California,9.70
+,2019-03-27,New York,New York,18.30
+,2019-03-27,Los Angeles,California,24.80
+,2019-03-27,Chicago,Illinois,12.30
+,2019-03-27,Houston,Texas,16.00
+,2019-03-27,Phoenix,Arizona,13.00
+,2019-03-27,Philadelphia,Pennsylvania,7.20
+,2019-03-27,San Antonio,Texas,24.60
+,2019-03-27,San Diego,California,9.00
+,2019-03-27,Dallas,Texas,16.00
+,2019-03-27,San Jose,California,12.50
+,2019-03-28,New York,New York,18.50
+,2019-03-28,Los Angeles,California,9.50
+,2019-03-28,Chicago,Illinois,8.30
+,2019-03-28,Houston,Texas,15.80
+,2019-03-28,Phoenix,Arizona,14.80
+,2019-03-28,Philadelphia,Pennsylvania,19.70
+,2019-03-28,San Antonio,Texas,14.50
+,2019-03-28,San Diego,California,8.40
+,2019-03-28,Dallas,Texas,9.60
+,2019-03-28,San Jose,California,5.00
+,2019-03-29,New York,New York,14.10
+,2019-03-29,Los Angeles,California,14.50
+,2019-03-29,Chicago,Illinois,24.10
+,2019-03-29,Houston,Texas,18.10
+,2019-03-29,Phoenix,Arizona,20.90
+,2019-03-29,Philadelphia,Pennsylvania,10.00
+,2019-03-29,San Antonio,Texas,12.40
+,2019-03-29,San Diego,California,7.30
+,2019-03-29,Dallas,Texas,19.60
+,2019-03-29,San Jose,California,18.10
+,2019-03-30,New York,New York,17.00
+,2019-03-30,Los Angeles,California,23.30
+,2019-03-30,Chicago,Illinois,13.90
+,2019-03-30,Houston,Texas,12.00
+,2019-03-30,Phoenix,Arizona,18.80
+,2019-03-30,Philadelphia,Pennsylvania,12.70
+,2019-03-30,San Antonio,Texas,22.30
+,2019-03-30,San Diego,California,20.60
+,2019-03-30,Dallas,Texas,10.00
+,2019-03-30,San Jose,California,19.80
+,2019-03-31,New York,New York,7.30
+,2019-03-31,Los Angeles,California,21.40
+,2019-03-31,Chicago,Illinois,22.90
+,2019-03-31,Houston,Texas,19.90
+,2019-03-31,Phoenix,Arizona,17.80
+,2019-03-31,Philadelphia,Pennsylvania,8.30
+,2019-03-31,San Antonio,Texas,17.30
+,2019-03-31,San Diego,California,6.40
+,2019-03-31,Dallas,Texas,18.10
+,2019-03-31,San Jose,California,9.20
+,2019-04-01,New York,New York,15.80
+,2019-04-01,Los Angeles,California,22.60
+,2019-04-01,Chicago,Illinois,10.50
+,2019-04-01,Houston,Texas,15.90
+,2019-04-01,Phoenix,Arizona,11.10
+,2019-04-01,Philadelphia,Pennsylvania,16.50
+,2019-04-01,San Antonio,Texas,7.10
+,2019-04-01,San Diego,California,22.30
+,2019-04-01,Dallas,Texas,8.30
+,2019-04-01,San Jose,California,15.30
+,2019-04-02,New York,New York,14.50
+,2019-04-02,Los Angeles,California,6.50
+,2019-04-02,Chicago,Illinois,22.10
+,2019-04-02,Houston,Texas,18.30
+,2019-04-02,Phoenix,Arizona,9.30
+,2019-04-02,Philadelphia,Pennsylvania,10.70
+,2019-04-02,San Antonio,Texas,14.00
+,2019-04-02,San Diego,California,13.70
+,2019-04-02,Dallas,Texas,22.80
+,2019-04-02,San Jose,California,8.40
+,2019-04-03,New York,New York,15.50
+,2019-04-03,Los Angeles,California,7.60
+,2019-04-03,Chicago,Illinois,16.70
+,2019-04-03,Houston,Texas,22.50
+,2019-04-03,Phoenix,Arizona,9.90
+,2019-04-03,Philadelphia,Pennsylvania,10.70
+,2019-04-03,San Antonio,Texas,11.40
+,2019-04-03,San Diego,California,22.50
+,2019-04-03,Dallas,Texas,22.80
+,2019-04-03,San Jose,California,9.00
+,2019-04-04,New York,New York,22.50
+,2019-04-04,Los Angeles,California,17.90
+,2019-04-04,Chicago,Illinois,24.80
+,2019-04-04,Houston,Texas,17.60
+,2019-04-04,Phoenix,Arizona,16.50
+,2019-04-04,Philadelphia,Pennsylvania,11.50
+,2019-04-04,San Antonio,Texas,22.70
+,2019-04-04,San Diego,California,5.60
+,2019-04-04,Dallas,Texas,7.60
+,2019-04-04,San Jose,California,17.80
+,2019-04-05,New York,New York,17.20
+,2019-04-05,Los Angeles,California,15.70
+,2019-04-05,Chicago,Illinois,16.20
+,2019-04-05,Houston,Texas,18.50
+,2019-04-05,Phoenix,Arizona,17.20
+,2019-04-05,Philadelphia,Pennsylvania,7.30
+,2019-04-05,San Antonio,Texas,6.80
+,2019-04-05,San Diego,California,10.40
+,2019-04-05,Dallas,Texas,18.60
+,2019-04-05,San Jose,California,19.40
+,2019-04-06,New York,New York,7.50
+,2019-04-06,Los Angeles,California,14.30
+,2019-04-06,Chicago,Illinois,23.00
+,2019-04-06,Houston,Texas,10.10
+,2019-04-06,Phoenix,Arizona,10.50
+,2019-04-06,Philadelphia,Pennsylvania,9.30
+,2019-04-06,San Antonio,Texas,24.30
+,2019-04-06,San Diego,California,24.80
+,2019-04-06,Dallas,Texas,5.30
+,2019-04-06,San Jose,California,20.10
+,2019-04-07,New York,New York,23.00
+,2019-04-07,Los Angeles,California,9.80
+,2019-04-07,Chicago,Illinois,14.90
+,2019-04-07,Houston,Texas,20.70
+,2019-04-07,Phoenix,Arizona,21.50
+,2019-04-07,Philadelphia,Pennsylvania,10.60
+,2019-04-07,San Antonio,Texas,21.70
+,2019-04-07,San Diego,California,14.30
+,2019-04-07,Dallas,Texas,5.90
+,2019-04-07,San Jose,California,9.80
+,2019-04-08,New York,New York,22.20
+,2019-04-08,Los Angeles,California,9.70
+,2019-04-08,Chicago,Illinois,14.30
+,2019-04-08,Houston,Texas,16.70
+,2019-04-08,Phoenix,Arizona,19.80
+,2019-04-08,Philadelphia,Pennsylvania,22.70
+,2019-04-08,San Antonio,Texas,19.30
+,2019-04-08,San Diego,California,11.40
+,2019-04-08,Dallas,Texas,21.40
+,2019-04-08,San Jose,California,9.20
+,2019-04-09,New York,New York,17.50
+,2019-04-09,Los Angeles,California,22.70
+,2019-04-09,Chicago,Illinois,7.00
+,2019-04-09,Houston,Texas,21.60
+,2019-04-09,Phoenix,Arizona,18.40
+,2019-04-09,Philadelphia,Pennsylvania,5.00
+,2019-04-09,San Antonio,Texas,24.10
+,2019-04-09,San Diego,California,15.00
+,2019-04-09,Dallas,Texas,23.90
+,2019-04-09,San Jose,California,11.70
+,2019-04-10,New York,New York,8.00
+,2019-04-10,Los Angeles,California,10.00
+,2019-04-10,Chicago,Illinois,10.90
+,2019-04-10,Houston,Texas,16.70
+,2019-04-10,Phoenix,Arizona,17.00
+,2019-04-10,Philadelphia,Pennsylvania,20.50
+,2019-04-10,San Antonio,Texas,8.50
+,2019-04-10,San Diego,California,19.80
+,2019-04-10,Dallas,Texas,15.30
+,2019-04-10,San Jose,California,24.80
+,2019-04-11,New York,New York,15.30
+,2019-04-11,Los Angeles,California,9.20
+,2019-04-11,Chicago,Illinois,16.20
+,2019-04-11,Houston,Texas,8.40
+,2019-04-11,Phoenix,Arizona,17.00
+,2019-04-11,Philadelphia,Pennsylvania,8.60
+,2019-04-11,San Antonio,Texas,6.90
+,2019-04-11,San Diego,California,19.40
+,2019-04-11,Dallas,Texas,17.20
+,2019-04-11,San Jose,California,11.30
+,2019-04-12,New York,New York,17.30
+,2019-04-12,Los Angeles,California,14.20
+,2019-04-12,Chicago,Illinois,14.40
+,2019-04-12,Houston,Texas,13.20
+,2019-04-12,Phoenix,Arizona,24.80
+,2019-04-12,Philadelphia,Pennsylvania,20.50
+,2019-04-12,San Antonio,Texas,7.00
+,2019-04-12,San Diego,California,24.60
+,2019-04-12,Dallas,Texas,9.50
+,2019-04-12,San Jose,California,24.20
+,2019-04-13,New York,New York,21.90
+,2019-04-13,Los Angeles,California,13.20
+,2019-04-13,Chicago,Illinois,15.30
+,2019-04-13,Houston,Texas,21.60
+,2019-04-13,Phoenix,Arizona,23.30
+,2019-04-13,Philadelphia,Pennsylvania,16.30
+,2019-04-13,San Antonio,Texas,12.70
+,2019-04-13,San Diego,California,15.40
+,2019-04-13,Dallas,Texas,15.20
+,2019-04-13,San Jose,California,7.40
+,2019-04-14,New York,New York,6.60
+,2019-04-14,Los Angeles,California,15.50
+,2019-04-14,Chicago,Illinois,16.50
+,2019-04-14,Houston,Texas,13.70
+,2019-04-14,Phoenix,Arizona,10.50
+,2019-04-14,Philadelphia,Pennsylvania,13.50
+,2019-04-14,San Antonio,Texas,20.80
+,2019-04-14,San Diego,California,17.10
+,2019-04-14,Dallas,Texas,22.30
+,2019-04-14,San Jose,California,15.70
+,2019-04-15,New York,New York,15.80
+,2019-04-15,Los Angeles,California,12.70
+,2019-04-15,Chicago,Illinois,16.60
+,2019-04-15,Houston,Texas,14.20
+,2019-04-15,Phoenix,Arizona,18.70
+,2019-04-15,Philadelphia,Pennsylvania,15.60
+,2019-04-15,San Antonio,Texas,12.90
+,2019-04-15,San Diego,California,16.60
+,2019-04-15,Dallas,Texas,18.40
+,2019-04-15,San Jose,California,19.40
+,2019-04-16,New York,New York,7.40
+,2019-04-16,Los Angeles,California,24.80
+,2019-04-16,Chicago,Illinois,10.20
+,2019-04-16,Houston,Texas,12.90
+,2019-04-16,Phoenix,Arizona,15.90
+,2019-04-16,Philadelphia,Pennsylvania,18.70
+,2019-04-16,San Antonio,Texas,8.00
+,2019-04-16,San Diego,California,23.50
+,2019-04-16,Dallas,Texas,5.40
+,2019-04-16,San Jose,California,11.70
+,2019-04-17,New York,New York,14.20
+,2019-04-17,Los Angeles,California,23.80
+,2019-04-17,Chicago,Illinois,13.10
+,2019-04-17,Houston,Texas,8.80
+,2019-04-17,Phoenix,Arizona,12.10
+,2019-04-17,Philadelphia,Pennsylvania,17.30
+,2019-04-17,San Antonio,Texas,14.30
+,2019-04-17,San Diego,California,20.50
+,2019-04-17,Dallas,Texas,21.90
+,2019-04-17,San Jose,California,5.60
+,2019-04-18,New York,New York,5.50
+,2019-04-18,Los Angeles,California,13.70
+,2019-04-18,Chicago,Illinois,14.80
+,2019-04-18,Houston,Texas,20.10
+,2019-04-18,Phoenix,Arizona,16.50
+,2019-04-18,Philadelphia,Pennsylvania,23.30
+,2019-04-18,San Antonio,Texas,19.90
+,2019-04-18,San Diego,California,16.80
+,2019-04-18,Dallas,Texas,8.50
+,2019-04-18,San Jose,California,10.10
+,2019-04-19,New York,New York,15.30
+,2019-04-19,Los Angeles,California,22.70
+,2019-04-19,Chicago,Illinois,12.30
+,2019-04-19,Houston,Texas,24.90
+,2019-04-19,Phoenix,Arizona,12.60
+,2019-04-19,Philadelphia,Pennsylvania,24.30
+,2019-04-19,San Antonio,Texas,19.20
+,2019-04-19,San Diego,California,7.10
+,2019-04-19,Dallas,Texas,12.40
+,2019-04-19,San Jose,California,9.20
+,2019-04-20,New York,New York,19.50
+,2019-04-20,Los Angeles,California,13.10
+,2019-04-20,Chicago,Illinois,9.50
+,2019-04-20,Houston,Texas,12.40
+,2019-04-20,Phoenix,Arizona,19.30
+,2019-04-20,Philadelphia,Pennsylvania,14.90
+,2019-04-20,San Antonio,Texas,13.70
+,2019-04-20,San Diego,California,22.00
+,2019-04-20,Dallas,Texas,19.20
+,2019-04-20,San Jose,California,6.40
+,2019-04-21,New York,New York,12.00
+,2019-04-21,Los Angeles,California,10.30
+,2019-04-21,Chicago,Illinois,8.90
+,2019-04-21,Houston,Texas,16.30
+,2019-04-21,Phoenix,Arizona,10.70
+,2019-04-21,Philadelphia,Pennsylvania,18.80
+,2019-04-21,San Antonio,Texas,19.50
+,2019-04-21,San Diego,California,5.30
+,2019-04-21,Dallas,Texas,17.60
+,2019-04-21,San Jose,California,23.90
+,2019-04-22,New York,New York,14.20
+,2019-04-22,Los Angeles,California,15.90
+,2019-04-22,Chicago,Illinois,11.30
+,2019-04-22,Houston,Texas,20.10
+,2019-04-22,Phoenix,Arizona,17.20
+,2019-04-22,Philadelphia,Pennsylvania,22.40
+,2019-04-22,San Antonio,Texas,21.10
+,2019-04-22,San Diego,California,13.50
+,2019-04-22,Dallas,Texas,11.80
+,2019-04-22,San Jose,California,7.10
+,2019-04-23,New York,New York,24.90
+,2019-04-23,Los Angeles,California,5.50
+,2019-04-23,Chicago,Illinois,7.10
+,2019-04-23,Houston,Texas,9.10
+,2019-04-23,Phoenix,Arizona,13.80
+,2019-04-23,Philadelphia,Pennsylvania,5.10
+,2019-04-23,San Antonio,Texas,18.50
+,2019-04-23,San Diego,California,21.50
+,2019-04-23,Dallas,Texas,16.60
+,2019-04-23,San Jose,California,20.40
+,2019-04-24,New York,New York,7.40
+,2019-04-24,Los Angeles,California,10.80
+,2019-04-24,Chicago,Illinois,6.60
+,2019-04-24,Houston,Texas,17.70
+,2019-04-24,Phoenix,Arizona,22.30
+,2019-04-24,Philadelphia,Pennsylvania,25.00
+,2019-04-24,San Antonio,Texas,13.10
+,2019-04-24,San Diego,California,23.50
+,2019-04-24,Dallas,Texas,14.00
+,2019-04-24,San Jose,California,19.70
+,2019-04-25,New York,New York,9.70
+,2019-04-25,Los Angeles,California,23.90
+,2019-04-25,Chicago,Illinois,8.40
+,2019-04-25,Houston,Texas,15.90
+,2019-04-25,Phoenix,Arizona,17.20
+,2019-04-25,Philadelphia,Pennsylvania,8.80
+,2019-04-25,San Antonio,Texas,14.20
+,2019-04-25,San Diego,California,19.80
+,2019-04-25,Dallas,Texas,7.30
+,2019-04-25,San Jose,California,22.90
+,2019-04-26,New York,New York,20.90
+,2019-04-26,Los Angeles,California,8.20
+,2019-04-26,Chicago,Illinois,5.20
+,2019-04-26,Houston,Texas,15.00
+,2019-04-26,Phoenix,Arizona,7.30
+,2019-04-26,Philadelphia,Pennsylvania,19.30
+,2019-04-26,San Antonio,Texas,6.90
+,2019-04-26,San Diego,California,5.20
+,2019-04-26,Dallas,Texas,16.90
+,2019-04-26,San Jose,California,18.00
+,2019-04-27,New York,New York,10.40
+,2019-04-27,Los Angeles,California,13.90
+,2019-04-27,Chicago,Illinois,5.80
+,2019-04-27,Houston,Texas,12.80
+,2019-04-27,Phoenix,Arizona,13.70
+,2019-04-27,Philadelphia,Pennsylvania,13.10
+,2019-04-27,San Antonio,Texas,15.80
+,2019-04-27,San Diego,California,22.20
+,2019-04-27,Dallas,Texas,7.70
+,2019-04-27,San Jose,California,18.10
+,2019-04-28,New York,New York,12.50
+,2019-04-28,Los Angeles,California,24.70
+,2019-04-28,Chicago,Illinois,7.30
+,2019-04-28,Houston,Texas,17.90
+,2019-04-28,Phoenix,Arizona,9.20
+,2019-04-28,Philadelphia,Pennsylvania,18.70
+,2019-04-28,San Antonio,Texas,15.00
+,2019-04-28,San Diego,California,11.70
+,2019-04-28,Dallas,Texas,6.30
+,2019-04-28,San Jose,California,8.40
+,2019-04-29,New York,New York,24.90
+,2019-04-29,Los Angeles,California,22.70
+,2019-04-29,Chicago,Illinois,6.30
+,2019-04-29,Houston,Texas,9.60
+,2019-04-29,Phoenix,Arizona,5.20
+,2019-04-29,Philadelphia,Pennsylvania,15.20
+,2019-04-29,San Antonio,Texas,23.60
+,2019-04-29,San Diego,California,7.60
+,2019-04-29,Dallas,Texas,10.60
+,2019-04-29,San Jose,California,15.20
+,2019-04-30,New York,New York,7.20
+,2019-04-30,Los Angeles,California,6.00
+,2019-04-30,Chicago,Illinois,5.30
+,2019-04-30,Houston,Texas,14.00
+,2019-04-30,Phoenix,Arizona,20.10
+,2019-04-30,Philadelphia,Pennsylvania,16.30
+,2019-04-30,San Antonio,Texas,21.70
+,2019-04-30,San Diego,California,14.90
+,2019-04-30,Dallas,Texas,16.50
+,2019-04-30,San Jose,California,5.60
+,2019-05-01,New York,New York,10.50
+,2019-05-01,Los Angeles,California,14.50
+,2019-05-01,Chicago,Illinois,22.40
+,2019-05-01,Houston,Texas,5.50
+,2019-05-01,Phoenix,Arizona,19.20
+,2019-05-01,Philadelphia,Pennsylvania,17.40
+,2019-05-01,San Antonio,Texas,15.90
+,2019-05-01,San Diego,California,23.00
+,2019-05-01,Dallas,Texas,13.50
+,2019-05-01,San Jose,California,23.00
+,2019-05-02,New York,New York,16.20
+,2019-05-02,Los Angeles,California,11.30
+,2019-05-02,Chicago,Illinois,23.80
+,2019-05-02,Houston,Texas,21.10
+,2019-05-02,Phoenix,Arizona,16.70
+,2019-05-02,Philadelphia,Pennsylvania,12.10
+,2019-05-02,San Antonio,Texas,23.70
+,2019-05-02,San Diego,California,19.80
+,2019-05-02,Dallas,Texas,8.10
+,2019-05-02,San Jose,California,17.40
+,2019-05-03,New York,New York,16.90
+,2019-05-03,Los Angeles,California,24.40
+,2019-05-03,Chicago,Illinois,15.30
+,2019-05-03,Houston,Texas,20.90
+,2019-05-03,Phoenix,Arizona,23.50
+,2019-05-03,Philadelphia,Pennsylvania,24.00
+,2019-05-03,San Antonio,Texas,22.60
+,2019-05-03,San Diego,California,6.60
+,2019-05-03,Dallas,Texas,8.50
+,2019-05-03,San Jose,California,23.20
+,2019-05-04,New York,New York,19.20
+,2019-05-04,Los Angeles,California,21.60
+,2019-05-04,Chicago,Illinois,18.00
+,2019-05-04,Houston,Texas,15.90
+,2019-05-04,Phoenix,Arizona,8.20
+,2019-05-04,Philadelphia,Pennsylvania,15.90
+,2019-05-04,San Antonio,Texas,19.50
+,2019-05-04,San Diego,California,22.20
+,2019-05-04,Dallas,Texas,14.10
+,2019-05-04,San Jose,California,6.70
+,2019-05-05,New York,New York,21.20
+,2019-05-05,Los Angeles,California,17.40
+,2019-05-05,Chicago,Illinois,12.00
+,2019-05-05,Houston,Texas,24.00
+,2019-05-05,Phoenix,Arizona,17.00
+,2019-05-05,Philadelphia,Pennsylvania,10.90
+,2019-05-05,San Antonio,Texas,14.90
+,2019-05-05,San Diego,California,11.60
+,2019-05-05,Dallas,Texas,18.80
+,2019-05-05,San Jose,California,6.30
+,2019-05-06,New York,New York,19.20
+,2019-05-06,Los Angeles,California,24.30
+,2019-05-06,Chicago,Illinois,5.20
+,2019-05-06,Houston,Texas,7.30
+,2019-05-06,Phoenix,Arizona,5.70
+,2019-05-06,Philadelphia,Pennsylvania,17.70
+,2019-05-06,San Antonio,Texas,10.60
+,2019-05-06,San Diego,California,6.20
+,2019-05-06,Dallas,Texas,8.70
+,2019-05-06,San Jose,California,10.50
+,2019-05-07,New York,New York,14.00
+,2019-05-07,Los Angeles,California,5.90
+,2019-05-07,Chicago,Illinois,10.00
+,2019-05-07,Houston,Texas,13.80
+,2019-05-07,Phoenix,Arizona,23.20
+,2019-05-07,Philadelphia,Pennsylvania,19.70
+,2019-05-07,San Antonio,Texas,16.20
+,2019-05-07,San Diego,California,10.50
+,2019-05-07,Dallas,Texas,8.50
+,2019-05-07,San Jose,California,5.70
+,2019-05-08,New York,New York,22.30
+,2019-05-08,Los Angeles,California,14.90
+,2019-05-08,Chicago,Illinois,6.00
+,2019-05-08,Houston,Texas,19.30
+,2019-05-08,Phoenix,Arizona,20.20
+,2019-05-08,Philadelphia,Pennsylvania,22.40
+,2019-05-08,San Antonio,Texas,22.70
+,2019-05-08,San Diego,California,10.30
+,2019-05-08,Dallas,Texas,18.00
+,2019-05-08,San Jose,California,18.50
+,2019-05-09,New York,New York,5.90
+,2019-05-09,Los Angeles,California,9.30
+,2019-05-09,Chicago,Illinois,19.90
+,2019-05-09,Houston,Texas,23.50
+,2019-05-09,Phoenix,Arizona,7.30
+,2019-05-09,Philadelphia,Pennsylvania,10.00
+,2019-05-09,San Antonio,Texas,24.00
+,2019-05-09,San Diego,California,5.70
+,2019-05-09,Dallas,Texas,12.20
+,2019-05-09,San Jose,California,14.70
+,2019-05-10,New York,New York,23.10
+,2019-05-10,Los Angeles,California,8.40
+,2019-05-10,Chicago,Illinois,15.20
+,2019-05-10,Houston,Texas,23.30
+,2019-05-10,Phoenix,Arizona,10.40
+,2019-05-10,Philadelphia,Pennsylvania,23.30
+,2019-05-10,San Antonio,Texas,16.70
+,2019-05-10,San Diego,California,7.00
+,2019-05-10,Dallas,Texas,9.50
+,2019-05-10,San Jose,California,12.00
+,2019-05-11,New York,New York,13.10
+,2019-05-11,Los Angeles,California,11.70
+,2019-05-11,Chicago,Illinois,14.40
+,2019-05-11,Houston,Texas,17.50
+,2019-05-11,Phoenix,Arizona,9.20
+,2019-05-11,Philadelphia,Pennsylvania,23.20
+,2019-05-11,San Antonio,Texas,8.40
+,2019-05-11,San Diego,California,17.70
+,2019-05-11,Dallas,Texas,21.80
+,2019-05-11,San Jose,California,7.00
+,2019-05-12,New York,New York,9.60
+,2019-05-12,Los Angeles,California,19.50
+,2019-05-12,Chicago,Illinois,15.90
+,2019-05-12,Houston,Texas,17.50
+,2019-05-12,Phoenix,Arizona,11.30
+,2019-05-12,Philadelphia,Pennsylvania,18.00
+,2019-05-12,San Antonio,Texas,7.20
+,2019-05-12,San Diego,California,11.90
+,2019-05-12,Dallas,Texas,9.50
+,2019-05-12,San Jose,California,19.90
+,2019-05-13,New York,New York,15.60
+,2019-05-13,Los Angeles,California,19.80
+,2019-05-13,Chicago,Illinois,16.80
+,2019-05-13,Houston,Texas,8.70
+,2019-05-13,Phoenix,Arizona,17.40
+,2019-05-13,Philadelphia,Pennsylvania,6.70
+,2019-05-13,San Antonio,Texas,11.70
+,2019-05-13,San Diego,California,23.60
+,2019-05-13,Dallas,Texas,20.40
+,2019-05-13,San Jose,California,10.50
+,2019-05-14,New York,New York,21.90
+,2019-05-14,Los Angeles,California,22.90
+,2019-05-14,Chicago,Illinois,16.20
+,2019-05-14,Houston,Texas,14.00
+,2019-05-14,Phoenix,Arizona,20.60
+,2019-05-14,Philadelphia,Pennsylvania,7.40
+,2019-05-14,San Antonio,Texas,24.20
+,2019-05-14,San Diego,California,23.10
+,2019-05-14,Dallas,Texas,20.40
+,2019-05-14,San Jose,California,6.70
+,2019-05-15,New York,New York,22.30
+,2019-05-15,Los Angeles,California,21.70
+,2019-05-15,Chicago,Illinois,14.50
+,2019-05-15,Houston,Texas,21.40
+,2019-05-15,Phoenix,Arizona,13.40
+,2019-05-15,Philadelphia,Pennsylvania,16.00
+,2019-05-15,San Antonio,Texas,18.60
+,2019-05-15,San Diego,California,17.50
+,2019-05-15,Dallas,Texas,17.80
+,2019-05-15,San Jose,California,11.80
+,2019-05-16,New York,New York,20.50
+,2019-05-16,Los Angeles,California,18.10
+,2019-05-16,Chicago,Illinois,6.30
+,2019-05-16,Houston,Texas,8.00
+,2019-05-16,Phoenix,Arizona,8.60
+,2019-05-16,Philadelphia,Pennsylvania,10.90
+,2019-05-16,San Antonio,Texas,19.90
+,2019-05-16,San Diego,California,8.30
+,2019-05-16,Dallas,Texas,7.90
+,2019-05-16,San Jose,California,9.90
+,2019-05-17,New York,New York,8.10
+,2019-05-17,Los Angeles,California,15.50
+,2019-05-17,Chicago,Illinois,14.60
+,2019-05-17,Houston,Texas,14.60
+,2019-05-17,Phoenix,Arizona,24.20
+,2019-05-17,Philadelphia,Pennsylvania,22.20
+,2019-05-17,San Antonio,Texas,15.70
+,2019-05-17,San Diego,California,18.60
+,2019-05-17,Dallas,Texas,5.60
+,2019-05-17,San Jose,California,11.60
+,2019-05-18,New York,New York,23.90
+,2019-05-18,Los Angeles,California,22.40
+,2019-05-18,Chicago,Illinois,14.00
+,2019-05-18,Houston,Texas,18.60
+,2019-05-18,Phoenix,Arizona,21.50
+,2019-05-18,Philadelphia,Pennsylvania,14.50
+,2019-05-18,San Antonio,Texas,15.00
+,2019-05-18,San Diego,California,15.90
+,2019-05-18,Dallas,Texas,14.20
+,2019-05-18,San Jose,California,14.70
+,2019-05-19,New York,New York,11.30
+,2019-05-19,Los Angeles,California,19.50
+,2019-05-19,Chicago,Illinois,23.70
+,2019-05-19,Houston,Texas,9.30
+,2019-05-19,Phoenix,Arizona,6.00
+,2019-05-19,Philadelphia,Pennsylvania,19.30
+,2019-05-19,San Antonio,Texas,16.70
+,2019-05-19,San Diego,California,7.90
+,2019-05-19,Dallas,Texas,23.50
+,2019-05-19,San Jose,California,13.20
+,2019-05-20,New York,New York,12.70
+,2019-05-20,Los Angeles,California,22.10
+,2019-05-20,Chicago,Illinois,9.40
+,2019-05-20,Houston,Texas,24.70
+,2019-05-20,Phoenix,Arizona,15.90
+,2019-05-20,Philadelphia,Pennsylvania,22.00
+,2019-05-20,San Antonio,Texas,20.50
+,2019-05-20,San Diego,California,6.70
+,2019-05-20,Dallas,Texas,7.10
+,2019-05-20,San Jose,California,16.70
+,2019-05-21,New York,New York,23.00
+,2019-05-21,Los Angeles,California,9.80
+,2019-05-21,Chicago,Illinois,12.20
+,2019-05-21,Houston,Texas,21.00
+,2019-05-21,Phoenix,Arizona,15.90
+,2019-05-21,Philadelphia,Pennsylvania,5.30
+,2019-05-21,San Antonio,Texas,12.80
+,2019-05-21,San Diego,California,19.50
+,2019-05-21,Dallas,Texas,8.30
+,2019-05-21,San Jose,California,19.90
+,2019-05-22,New York,New York,7.10
+,2019-05-22,Los Angeles,California,9.50
+,2019-05-22,Chicago,Illinois,6.00
+,2019-05-22,Houston,Texas,11.50
+,2019-05-22,Phoenix,Arizona,22.90
+,2019-05-22,Philadelphia,Pennsylvania,7.10
+,2019-05-22,San Antonio,Texas,15.40
+,2019-05-22,San Diego,California,18.00
+,2019-05-22,Dallas,Texas,5.70
+,2019-05-22,San Jose,California,14.50
+,2019-05-23,New York,New York,16.80
+,2019-05-23,Los Angeles,California,12.40
+,2019-05-23,Chicago,Illinois,10.70
+,2019-05-23,Houston,Texas,16.50
+,2019-05-23,Phoenix,Arizona,16.80
+,2019-05-23,Philadelphia,Pennsylvania,24.80
+,2019-05-23,San Antonio,Texas,10.80
+,2019-05-23,San Diego,California,17.50
+,2019-05-23,Dallas,Texas,13.20
+,2019-05-23,San Jose,California,18.00
+,2019-05-24,New York,New York,16.00
+,2019-05-24,Los Angeles,California,13.70
+,2019-05-24,Chicago,Illinois,8.60
+,2019-05-24,Houston,Texas,20.30
+,2019-05-24,Phoenix,Arizona,13.50
+,2019-05-24,Philadelphia,Pennsylvania,22.40
+,2019-05-24,San Antonio,Texas,19.70
+,2019-05-24,San Diego,California,14.70
+,2019-05-24,Dallas,Texas,22.10
+,2019-05-24,San Jose,California,14.40
+,2019-05-25,New York,New York,17.20
+,2019-05-25,Los Angeles,California,10.10
+,2019-05-25,Chicago,Illinois,25.00
+,2019-05-25,Houston,Texas,24.40
+,2019-05-25,Phoenix,Arizona,24.40
+,2019-05-25,Philadelphia,Pennsylvania,24.80
+,2019-05-25,San Antonio,Texas,22.60
+,2019-05-25,San Diego,California,15.30
+,2019-05-25,Dallas,Texas,21.90
+,2019-05-25,San Jose,California,22.00
+,2019-05-26,New York,New York,22.50
+,2019-05-26,Los Angeles,California,15.20
+,2019-05-26,Chicago,Illinois,15.00
+,2019-05-26,Houston,Texas,13.50
+,2019-05-26,Phoenix,Arizona,10.70
+,2019-05-26,Philadelphia,Pennsylvania,19.30
+,2019-05-26,San Antonio,Texas,24.50
+,2019-05-26,San Diego,California,9.60
+,2019-05-26,Dallas,Texas,13.60
+,2019-05-26,San Jose,California,21.10
+,2019-05-27,New York,New York,13.70
+,2019-05-27,Los Angeles,California,22.50
+,2019-05-27,Chicago,Illinois,6.70
+,2019-05-27,Houston,Texas,11.90
+,2019-05-27,Phoenix,Arizona,15.40
+,2019-05-27,Philadelphia,Pennsylvania,21.10
+,2019-05-27,San Antonio,Texas,10.60
+,2019-05-27,San Diego,California,20.70
+,2019-05-27,Dallas,Texas,19.60
+,2019-05-27,San Jose,California,14.80
+,2019-05-28,New York,New York,8.20
+,2019-05-28,Los Angeles,California,11.00
+,2019-05-28,Chicago,Illinois,24.00
+,2019-05-28,Houston,Texas,10.60
+,2019-05-28,Phoenix,Arizona,5.80
+,2019-05-28,Philadelphia,Pennsylvania,14.40
+,2019-05-28,San Antonio,Texas,16.80
+,2019-05-28,San Diego,California,15.80
+,2019-05-28,Dallas,Texas,6.40
+,2019-05-28,San Jose,California,9.60
+,2019-05-29,New York,New York,13.90
+,2019-05-29,Los Angeles,California,18.00
+,2019-05-29,Chicago,Illinois,19.60
+,2019-05-29,Houston,Texas,5.60
+,2019-05-29,Phoenix,Arizona,20.00
+,2019-05-29,Philadelphia,Pennsylvania,12.30
+,2019-05-29,San Antonio,Texas,23.50
+,2019-05-29,San Diego,California,22.70
+,2019-05-29,Dallas,Texas,21.60
+,2019-05-29,San Jose,California,16.70
+,2019-05-30,New York,New York,12.70
+,2019-05-30,Los Angeles,California,13.40
+,2019-05-30,Chicago,Illinois,24.80
+,2019-05-30,Houston,Texas,13.60
+,2019-05-30,Phoenix,Arizona,22.60
+,2019-05-30,Philadelphia,Pennsylvania,15.80
+,2019-05-30,San Antonio,Texas,6.60
+,2019-05-30,San Diego,California,18.30
+,2019-05-30,Dallas,Texas,16.70
+,2019-05-30,San Jose,California,9.90
+,2019-05-31,New York,New York,8.80
+,2019-05-31,Los Angeles,California,21.90
+,2019-05-31,Chicago,Illinois,11.90
+,2019-05-31,Houston,Texas,12.20
+,2019-05-31,Phoenix,Arizona,21.60
+,2019-05-31,Philadelphia,Pennsylvania,12.10
+,2019-05-31,San Antonio,Texas,23.70
+,2019-05-31,San Diego,California,14.00
+,2019-05-31,Dallas,Texas,15.10
+,2019-05-31,San Jose,California,18.10
+,2019-06-01,New York,New York,33.40
+,2019-06-01,Los Angeles,California,28.90
+,2019-06-01,Chicago,Illinois,32.30
+,2019-06-01,Houston,Texas,26.50
+,2019-06-01,Phoenix,Arizona,30.70
+,2019-06-01,Philadelphia,Pennsylvania,20.80
+,2019-06-01,San Antonio,Texas,40.70
+,2019-06-01,San Diego,California,40.70
+,2019-06-01,Dallas,Texas,40.80
+,2019-06-01,San Jose,California,27.70
+,2019-06-02,New York,New York,39.40
+,2019-06-02,Los Angeles,California,38.60
+,2019-06-02,Chicago,Illinois,28.30
+,2019-06-02,Houston,Texas,26.30
+,2019-06-02,Phoenix,Arizona,40.10
+,2019-06-02,Philadelphia,Pennsylvania,25.40
+,2019-06-02,San Antonio,Texas,28.50
+,2019-06-02,San Diego,California,40.30
+,2019-06-02,Dallas,Texas,22.80
+,2019-06-02,San Jose,California,29.90
+,2019-06-03,New York,New York,28.80
+,2019-06-03,Los Angeles,California,32.40
+,2019-06-03,Chicago,Illinois,28.90
+,2019-06-03,Houston,Texas,27.90
+,2019-06-03,Phoenix,Arizona,39.70
+,2019-06-03,Philadelphia,Pennsylvania,35.20
+,2019-06-03,San Antonio,Texas,31.50
+,2019-06-03,San Diego,California,20.60
+,2019-06-03,Dallas,Texas,39.30
+,2019-06-03,San Jose,California,22.80
+,2019-06-04,New York,New York,24.60
+,2019-06-04,Los Angeles,California,26.80
+,2019-06-04,Chicago,Illinois,25.50
+,2019-06-04,Houston,Texas,24.90
+,2019-06-04,Phoenix,Arizona,34.00
+,2019-06-04,Philadelphia,Pennsylvania,29.30
+,2019-06-04,San Antonio,Texas,30.30
+,2019-06-04,San Diego,California,28.40
+,2019-06-04,Dallas,Texas,28.40
+,2019-06-04,San Jose,California,26.70
+,2019-06-05,New York,New York,34.30
+,2019-06-05,Los Angeles,California,30.70
+,2019-06-05,Chicago,Illinois,40.40
+,2019-06-05,Houston,Texas,31.10
+,2019-06-05,Phoenix,Arizona,25.70
+,2019-06-05,Philadelphia,Pennsylvania,25.20
+,2019-06-05,San Antonio,Texas,33.50
+,2019-06-05,San Diego,California,28.80
+,2019-06-05,Dallas,Texas,39.40
+,2019-06-05,San Jose,California,29.40
+,2019-06-06,New York,New York,35.40
+,2019-06-06,Los Angeles,California,40.10
+,2019-06-06,Chicago,Illinois,22.40
+,2019-06-06,Houston,Texas,22.00
+,2019-06-06,Phoenix,Arizona,31.80
+,2019-06-06,Philadelphia,Pennsylvania,26.90
+,2019-06-06,San Antonio,Texas,30.50
+,2019-06-06,San Diego,California,37.00
+,2019-06-06,Dallas,Texas,26.90
+,2019-06-06,San Jose,California,38.30
+,2019-06-07,New York,New York,28.10
+,2019-06-07,Los Angeles,California,26.60
+,2019-06-07,Chicago,Illinois,29.70
+,2019-06-07,Houston,Texas,24.10
+,2019-06-07,Phoenix,Arizona,39.10
+,2019-06-07,Philadelphia,Pennsylvania,37.20
+,2019-06-07,San Antonio,Texas,25.40
+,2019-06-07,San Diego,California,34.10
+,2019-06-07,Dallas,Texas,33.50
+,2019-06-07,San Jose,California,35.70
+,2019-06-08,New York,New York,24.70
+,2019-06-08,Los Angeles,California,28.30
+,2019-06-08,Chicago,Illinois,41.10
+,2019-06-08,Houston,Texas,23.40
+,2019-06-08,Phoenix,Arizona,40.40
+,2019-06-08,Philadelphia,Pennsylvania,24.70
+,2019-06-08,San Antonio,Texas,23.30
+,2019-06-08,San Diego,California,26.20
+,2019-06-08,Dallas,Texas,24.60
+,2019-06-08,San Jose,California,38.50
+,2019-06-09,New York,New York,27.50
+,2019-06-09,Los Angeles,California,33.80
+,2019-06-09,Chicago,Illinois,38.30
+,2019-06-09,Houston,Texas,32.30
+,2019-06-09,Phoenix,Arizona,39.40
+,2019-06-09,Philadelphia,Pennsylvania,26.60
+,2019-06-09,San Antonio,Texas,32.60
+,2019-06-09,San Diego,California,26.30
+,2019-06-09,Dallas,Texas,22.30
+,2019-06-09,San Jose,California,20.30
+,2019-06-10,New York,New York,34.90
+,2019-06-10,Los Angeles,California,22.00
+,2019-06-10,Chicago,Illinois,33.20
+,2019-06-10,Houston,Texas,22.50
+,2019-06-10,Phoenix,Arizona,24.80
+,2019-06-10,Philadelphia,Pennsylvania,40.90
+,2019-06-10,San Antonio,Texas,34.00
+,2019-06-10,San Diego,California,21.50
+,2019-06-10,Dallas,Texas,26.60
+,2019-06-10,San Jose,California,40.10
+,2019-06-11,New York,New York,21.00
+,2019-06-11,Los Angeles,California,27.70
+,2019-06-11,Chicago,Illinois,40.30
+,2019-06-11,Houston,Texas,39.90
+,2019-06-11,Phoenix,Arizona,20.70
+,2019-06-11,Philadelphia,Pennsylvania,39.10
+,2019-06-11,San Antonio,Texas,41.30
+,2019-06-11,San Diego,California,34.90
+,2019-06-11,Dallas,Texas,22.60
+,2019-06-11,San Jose,California,22.20
+,2019-06-12,New York,New York,38.20
+,2019-06-12,Los Angeles,California,41.40
+,2019-06-12,Chicago,Illinois,29.90
+,2019-06-12,Houston,Texas,39.70
+,2019-06-12,Phoenix,Arizona,29.70
+,2019-06-12,Philadelphia,Pennsylvania,33.20
+,2019-06-12,San Antonio,Texas,32.50
+,2019-06-12,San Diego,California,38.80
+,2019-06-12,Dallas,Texas,40.70
+,2019-06-12,San Jose,California,33.50
+,2019-06-13,New York,New York,34.00
+,2019-06-13,Los Angeles,California,24.30
+,2019-06-13,Chicago,Illinois,30.80
+,2019-06-13,Houston,Texas,23.50
+,2019-06-13,Phoenix,Arizona,22.00
+,2019-06-13,Philadelphia,Pennsylvania,35.80
+,2019-06-13,San Antonio,Texas,35.80
+,2019-06-13,San Diego,California,25.70
+,2019-06-13,Dallas,Texas,32.20
+,2019-06-13,San Jose,California,21.00
+,2019-06-14,New York,New York,36.90
+,2019-06-14,Los Angeles,California,25.60
+,2019-06-14,Chicago,Illinois,30.80
+,2019-06-14,Houston,Texas,31.40
+,2019-06-14,Phoenix,Arizona,37.40
+,2019-06-14,Philadelphia,Pennsylvania,28.80
+,2019-06-14,San Antonio,Texas,22.60
+,2019-06-14,San Diego,California,21.00
+,2019-06-14,Dallas,Texas,23.50
+,2019-06-14,San Jose,California,24.00
+,2019-06-15,New York,New York,24.20
+,2019-06-15,Los Angeles,California,24.20
+,2019-06-15,Chicago,Illinois,41.90
+,2019-06-15,Houston,Texas,32.30
+,2019-06-15,Phoenix,Arizona,35.30
+,2019-06-15,Philadelphia,Pennsylvania,29.20
+,2019-06-15,San Antonio,Texas,41.00
+,2019-06-15,San Diego,California,23.70
+,2019-06-15,Dallas,Texas,34.60
+,2019-06-15,San Jose,California,24.80
+,2019-06-16,New York,New York,31.80
+,2019-06-16,Los Angeles,California,24.80
+,2019-06-16,Chicago,Illinois,20.10
+,2019-06-16,Houston,Texas,27.80
+,2019-06-16,Phoenix,Arizona,38.20
+,2019-06-16,Philadelphia,Pennsylvania,23.70
+,2019-06-16,San Antonio,Texas,37.10
+,2019-06-16,San Diego,California,29.10
+,2019-06-16,Dallas,Texas,23.80
+,2019-06-16,San Jose,California,31.40
+,2019-06-17,New York,New York,40.90
+,2019-06-17,Los Angeles,California,20.90
+,2019-06-17,Chicago,Illinois,34.50
+,2019-06-17,Houston,Texas,39.20
+,2019-06-17,Phoenix,Arizona,29.50
+,2019-06-17,Philadelphia,Pennsylvania,28.70
+,2019-06-17,San Antonio,Texas,38.30
+,2019-06-17,San Diego,California,30.50
+,2019-06-17,Dallas,Texas,21.20
+,2019-06-17,San Jose,California,30.90
+,2019-06-18,New York,New York,41.90
+,2019-06-18,Los Angeles,California,25.90
+,2019-06-18,Chicago,Illinois,30.00
+,2019-06-18,Houston,Texas,37.90
+,2019-06-18,Phoenix,Arizona,37.90
+,2019-06-18,Philadelphia,Pennsylvania,20.70
+,2019-06-18,San Antonio,Texas,21.30
+,2019-06-18,San Diego,California,21.80
+,2019-06-18,Dallas,Texas,26.90
+,2019-06-18,San Jose,California,32.50
+,2019-06-19,New York,New York,36.90
+,2019-06-19,Los Angeles,California,32.40
+,2019-06-19,Chicago,Illinois,26.30
+,2019-06-19,Houston,Texas,33.40
+,2019-06-19,Phoenix,Arizona,35.70
+,2019-06-19,Philadelphia,Pennsylvania,26.60
+,2019-06-19,San Antonio,Texas,41.50
+,2019-06-19,San Diego,California,36.30
+,2019-06-19,Dallas,Texas,20.90
+,2019-06-19,San Jose,California,29.30
+,2019-06-20,New York,New York,21.50
+,2019-06-20,Los Angeles,California,29.60
+,2019-06-20,Chicago,Illinois,24.80
+,2019-06-20,Houston,Texas,34.90
+,2019-06-20,Phoenix,Arizona,27.20
+,2019-06-20,Philadelphia,Pennsylvania,23.90
+,2019-06-20,San Antonio,Texas,40.50
+,2019-06-20,San Diego,California,32.20
+,2019-06-20,Dallas,Texas,40.20
+,2019-06-20,San Jose,California,40.60
+,2019-06-21,New York,New York,25.40
+,2019-06-21,Los Angeles,California,29.80
+,2019-06-21,Chicago,Illinois,25.40
+,2019-06-21,Houston,Texas,27.30
+,2019-06-21,Phoenix,Arizona,34.80
+,2019-06-21,Philadelphia,Pennsylvania,36.40
+,2019-06-21,San Antonio,Texas,36.40
+,2019-06-21,San Diego,California,30.10
+,2019-06-21,Dallas,Texas,21.90
+,2019-06-21,San Jose,California,38.30
+,2019-06-22,New York,New York,23.30
+,2019-06-22,Los Angeles,California,30.20
+,2019-06-22,Chicago,Illinois,26.30
+,2019-06-22,Houston,Texas,25.40
+,2019-06-22,Phoenix,Arizona,27.00
+,2019-06-22,Philadelphia,Pennsylvania,29.10
+,2019-06-22,San Antonio,Texas,23.50
+,2019-06-22,San Diego,California,30.90
+,2019-06-22,Dallas,Texas,28.90
+,2019-06-22,San Jose,California,35.10
+,2019-06-23,New York,New York,33.60
+,2019-06-23,Los Angeles,California,23.60
+,2019-06-23,Chicago,Illinois,34.20
+,2019-06-23,Houston,Texas,41.60
+,2019-06-23,Phoenix,Arizona,35.90
+,2019-06-23,Philadelphia,Pennsylvania,26.90
+,2019-06-23,San Antonio,Texas,41.70
+,2019-06-23,San Diego,California,34.00
+,2019-06-23,Dallas,Texas,25.60
+,2019-06-23,San Jose,California,40.70
+,2019-06-24,New York,New York,39.00
+,2019-06-24,Los Angeles,California,25.90
+,2019-06-24,Chicago,Illinois,28.70
+,2019-06-24,Houston,Texas,28.80
+,2019-06-24,Phoenix,Arizona,29.30
+,2019-06-24,Philadelphia,Pennsylvania,27.90
+,2019-06-24,San Antonio,Texas,33.90
+,2019-06-24,San Diego,California,33.60
+,2019-06-24,Dallas,Texas,41.40
+,2019-06-24,San Jose,California,38.90
+,2019-06-25,New York,New York,32.30
+,2019-06-25,Los Angeles,California,39.10
+,2019-06-25,Chicago,Illinois,33.60
+,2019-06-25,Houston,Texas,27.80
+,2019-06-25,Phoenix,Arizona,35.80
+,2019-06-25,Philadelphia,Pennsylvania,22.00
+,2019-06-25,San Antonio,Texas,29.90
+,2019-06-25,San Diego,California,27.00
+,2019-06-25,Dallas,Texas,37.50
+,2019-06-25,San Jose,California,41.80
+,2019-06-26,New York,New York,32.30
+,2019-06-26,Los Angeles,California,30.50
+,2019-06-26,Chicago,Illinois,35.60
+,2019-06-26,Houston,Texas,40.00
+,2019-06-26,Phoenix,Arizona,41.90
+,2019-06-26,Philadelphia,Pennsylvania,20.40
+,2019-06-26,San Antonio,Texas,31.90
+,2019-06-26,San Diego,California,33.60
+,2019-06-26,Dallas,Texas,35.50
+,2019-06-26,San Jose,California,41.80
+,2019-06-27,New York,New York,26.40
+,2019-06-27,Los Angeles,California,26.10
+,2019-06-27,Chicago,Illinois,35.50
+,2019-06-27,Houston,Texas,25.20
+,2019-06-27,Phoenix,Arizona,20.10
+,2019-06-27,Philadelphia,Pennsylvania,36.40
+,2019-06-27,San Antonio,Texas,35.90
+,2019-06-27,San Diego,California,41.10
+,2019-06-27,Dallas,Texas,27.90
+,2019-06-27,San Jose,California,33.50
+,2019-06-28,New York,New York,41.50
+,2019-06-28,Los Angeles,California,33.80
+,2019-06-28,Chicago,Illinois,33.70
+,2019-06-28,Houston,Texas,38.80
+,2019-06-28,Phoenix,Arizona,29.50
+,2019-06-28,Philadelphia,Pennsylvania,40.00
+,2019-06-28,San Antonio,Texas,22.50
+,2019-06-28,San Diego,California,24.90
+,2019-06-28,Dallas,Texas,40.20
+,2019-06-28,San Jose,California,28.70
+,2019-06-29,New York,New York,24.70
+,2019-06-29,Los Angeles,California,37.70
+,2019-06-29,Chicago,Illinois,40.70
+,2019-06-29,Houston,Texas,29.50
+,2019-06-29,Phoenix,Arizona,28.70
+,2019-06-29,Philadelphia,Pennsylvania,21.50
+,2019-06-29,San Antonio,Texas,23.80
+,2019-06-29,San Diego,California,25.70
+,2019-06-29,Dallas,Texas,22.00
+,2019-06-29,San Jose,California,32.70
+,2019-06-30,New York,New York,26.70
+,2019-06-30,Los Angeles,California,32.80
+,2019-06-30,Chicago,Illinois,34.50
+,2019-06-30,Houston,Texas,20.90
+,2019-06-30,Phoenix,Arizona,33.90
+,2019-06-30,Philadelphia,Pennsylvania,29.60
+,2019-06-30,San Antonio,Texas,24.60
+,2019-06-30,San Diego,California,38.10
+,2019-06-30,Dallas,Texas,32.60
+,2019-06-30,San Jose,California,26.70
+,2019-07-01,New York,New York,32.30
+,2019-07-01,Los Angeles,California,38.70
+,2019-07-01,Chicago,Illinois,23.90
+,2019-07-01,Houston,Texas,22.70
+,2019-07-01,Phoenix,Arizona,34.10
+,2019-07-01,Philadelphia,Pennsylvania,33.20
+,2019-07-01,San Antonio,Texas,35.20
+,2019-07-01,San Diego,California,37.60
+,2019-07-01,Dallas,Texas,38.30
+,2019-07-01,San Jose,California,41.20
+,2019-07-02,New York,New York,21.90
+,2019-07-02,Los Angeles,California,29.80
+,2019-07-02,Chicago,Illinois,22.00
+,2019-07-02,Houston,Texas,37.90
+,2019-07-02,Phoenix,Arizona,25.50
+,2019-07-02,Philadelphia,Pennsylvania,23.80
+,2019-07-02,San Antonio,Texas,25.90
+,2019-07-02,San Diego,California,32.10
+,2019-07-02,Dallas,Texas,41.40
+,2019-07-02,San Jose,California,32.60
+,2019-07-03,New York,New York,30.40
+,2019-07-03,Los Angeles,California,31.30
+,2019-07-03,Chicago,Illinois,40.50
+,2019-07-03,Houston,Texas,25.90
+,2019-07-03,Phoenix,Arizona,41.30
+,2019-07-03,Philadelphia,Pennsylvania,34.50
+,2019-07-03,San Antonio,Texas,37.80
+,2019-07-03,San Diego,California,25.80
+,2019-07-03,Dallas,Texas,21.60
+,2019-07-03,San Jose,California,29.00
+,2019-07-04,New York,New York,38.20
+,2019-07-04,Los Angeles,California,27.30
+,2019-07-04,Chicago,Illinois,39.10
+,2019-07-04,Houston,Texas,39.20
+,2019-07-04,Phoenix,Arizona,41.90
+,2019-07-04,Philadelphia,Pennsylvania,37.70
+,2019-07-04,San Antonio,Texas,25.90
+,2019-07-04,San Diego,California,30.20
+,2019-07-04,Dallas,Texas,21.00
+,2019-07-04,San Jose,California,35.40
+,2019-07-05,New York,New York,37.50
+,2019-07-05,Los Angeles,California,22.70
+,2019-07-05,Chicago,Illinois,35.10
+,2019-07-05,Houston,Texas,30.50
+,2019-07-05,Phoenix,Arizona,20.50
+,2019-07-05,Philadelphia,Pennsylvania,27.80
+,2019-07-05,San Antonio,Texas,29.80
+,2019-07-05,San Diego,California,34.20
+,2019-07-05,Dallas,Texas,33.80
+,2019-07-05,San Jose,California,22.10
+,2019-07-06,New York,New York,24.00
+,2019-07-06,Los Angeles,California,38.50
+,2019-07-06,Chicago,Illinois,32.60
+,2019-07-06,Houston,Texas,34.20
+,2019-07-06,Phoenix,Arizona,20.00
+,2019-07-06,Philadelphia,Pennsylvania,23.20
+,2019-07-06,San Antonio,Texas,21.10
+,2019-07-06,San Diego,California,20.30
+,2019-07-06,Dallas,Texas,41.30
+,2019-07-06,San Jose,California,21.10
+,2019-07-07,New York,New York,26.00
+,2019-07-07,Los Angeles,California,31.60
+,2019-07-07,Chicago,Illinois,37.50
+,2019-07-07,Houston,Texas,21.80
+,2019-07-07,Phoenix,Arizona,26.70
+,2019-07-07,Philadelphia,Pennsylvania,30.40
+,2019-07-07,San Antonio,Texas,26.80
+,2019-07-07,San Diego,California,39.90
+,2019-07-07,Dallas,Texas,31.60
+,2019-07-07,San Jose,California,41.50
+,2019-07-08,New York,New York,29.00
+,2019-07-08,Los Angeles,California,31.70
+,2019-07-08,Chicago,Illinois,30.50
+,2019-07-08,Houston,Texas,41.50
+,2019-07-08,Phoenix,Arizona,29.50
+,2019-07-08,Philadelphia,Pennsylvania,40.90
+,2019-07-08,San Antonio,Texas,33.80
+,2019-07-08,San Diego,California,37.00
+,2019-07-08,Dallas,Texas,25.00
+,2019-07-08,San Jose,California,40.00
+,2019-07-09,New York,New York,39.10
+,2019-07-09,Los Angeles,California,30.30
+,2019-07-09,Chicago,Illinois,38.70
+,2019-07-09,Houston,Texas,39.40
+,2019-07-09,Phoenix,Arizona,25.20
+,2019-07-09,Philadelphia,Pennsylvania,22.60
+,2019-07-09,San Antonio,Texas,35.90
+,2019-07-09,San Diego,California,32.20
+,2019-07-09,Dallas,Texas,27.80
+,2019-07-09,San Jose,California,30.90
+,2019-07-10,New York,New York,38.50
+,2019-07-10,Los Angeles,California,20.80
+,2019-07-10,Chicago,Illinois,36.20
+,2019-07-10,Houston,Texas,34.40
+,2019-07-10,Phoenix,Arizona,23.60
+,2019-07-10,Philadelphia,Pennsylvania,20.00
+,2019-07-10,San Antonio,Texas,31.20
+,2019-07-10,San Diego,California,28.00
+,2019-07-10,Dallas,Texas,32.00
+,2019-07-10,San Jose,California,21.40
+,2019-07-11,New York,New York,27.10
+,2019-07-11,Los Angeles,California,26.00
+,2019-07-11,Chicago,Illinois,41.10
+,2019-07-11,Houston,Texas,31.50
+,2019-07-11,Phoenix,Arizona,29.30
+,2019-07-11,Philadelphia,Pennsylvania,25.60
+,2019-07-11,San Antonio,Texas,35.40
+,2019-07-11,San Diego,California,34.40
+,2019-07-11,Dallas,Texas,25.10
+,2019-07-11,San Jose,California,35.30
+,2019-07-12,New York,New York,27.60
+,2019-07-12,Los Angeles,California,29.60
+,2019-07-12,Chicago,Illinois,38.40
+,2019-07-12,Houston,Texas,24.40
+,2019-07-12,Phoenix,Arizona,33.20
+,2019-07-12,Philadelphia,Pennsylvania,24.00
+,2019-07-12,San Antonio,Texas,35.90
+,2019-07-12,San Diego,California,22.70
+,2019-07-12,Dallas,Texas,40.80
+,2019-07-12,San Jose,California,27.60
+,2019-07-13,New York,New York,40.70
+,2019-07-13,Los Angeles,California,30.40
+,2019-07-13,Chicago,Illinois,28.90
+,2019-07-13,Houston,Texas,23.50
+,2019-07-13,Phoenix,Arizona,30.30
+,2019-07-13,Philadelphia,Pennsylvania,20.90
+,2019-07-13,San Antonio,Texas,31.70
+,2019-07-13,San Diego,California,36.10
+,2019-07-13,Dallas,Texas,28.00
+,2019-07-13,San Jose,California,31.40
+,2019-07-14,New York,New York,38.50
+,2019-07-14,Los Angeles,California,26.50
+,2019-07-14,Chicago,Illinois,31.60
+,2019-07-14,Houston,Texas,33.10
+,2019-07-14,Phoenix,Arizona,22.50
+,2019-07-14,Philadelphia,Pennsylvania,21.30
+,2019-07-14,San Antonio,Texas,31.30
+,2019-07-14,San Diego,California,27.90
+,2019-07-14,Dallas,Texas,20.10
+,2019-07-14,San Jose,California,24.90
+,2019-07-15,New York,New York,28.50
+,2019-07-15,Los Angeles,California,30.20
+,2019-07-15,Chicago,Illinois,30.20
+,2019-07-15,Houston,Texas,30.80
+,2019-07-15,Phoenix,Arizona,22.10
+,2019-07-15,Philadelphia,Pennsylvania,34.30
+,2019-07-15,San Antonio,Texas,29.90
+,2019-07-15,San Diego,California,34.80
+,2019-07-15,Dallas,Texas,21.90
+,2019-07-15,San Jose,California,41.30
+,2019-07-16,New York,New York,34.50
+,2019-07-16,Los Angeles,California,25.60
+,2019-07-16,Chicago,Illinois,32.50
+,2019-07-16,Houston,Texas,25.40
+,2019-07-16,Phoenix,Arizona,25.90
+,2019-07-16,Philadelphia,Pennsylvania,22.80
+,2019-07-16,San Antonio,Texas,23.20
+,2019-07-16,San Diego,California,28.00
+,2019-07-16,Dallas,Texas,23.20
+,2019-07-16,San Jose,California,20.20
+,2019-07-17,New York,New York,37.20
+,2019-07-17,Los Angeles,California,35.40
+,2019-07-17,Chicago,Illinois,22.30
+,2019-07-17,Houston,Texas,32.30
+,2019-07-17,Phoenix,Arizona,41.80
+,2019-07-17,Philadelphia,Pennsylvania,28.10
+,2019-07-17,San Antonio,Texas,40.70
+,2019-07-17,San Diego,California,30.50
+,2019-07-17,Dallas,Texas,41.30
+,2019-07-17,San Jose,California,29.50
+,2019-07-18,New York,New York,32.00
+,2019-07-18,Los Angeles,California,36.30
+,2019-07-18,Chicago,Illinois,30.90
+,2019-07-18,Houston,Texas,35.60
+,2019-07-18,Phoenix,Arizona,29.40
+,2019-07-18,Philadelphia,Pennsylvania,23.20
+,2019-07-18,San Antonio,Texas,35.70
+,2019-07-18,San Diego,California,39.70
+,2019-07-18,Dallas,Texas,23.50
+,2019-07-18,San Jose,California,30.30
+,2019-07-19,New York,New York,39.60
+,2019-07-19,Los Angeles,California,32.60
+,2019-07-19,Chicago,Illinois,30.30
+,2019-07-19,Houston,Texas,36.20
+,2019-07-19,Phoenix,Arizona,22.40
+,2019-07-19,Philadelphia,Pennsylvania,36.40
+,2019-07-19,San Antonio,Texas,35.10
+,2019-07-19,San Diego,California,31.30
+,2019-07-19,Dallas,Texas,41.70
+,2019-07-19,San Jose,California,39.50
+,2019-07-20,New York,New York,33.40
+,2019-07-20,Los Angeles,California,26.40
+,2019-07-20,Chicago,Illinois,28.20
+,2019-07-20,Houston,Texas,38.10
+,2019-07-20,Phoenix,Arizona,30.70
+,2019-07-20,Philadelphia,Pennsylvania,24.60
+,2019-07-20,San Antonio,Texas,25.90
+,2019-07-20,San Diego,California,28.00
+,2019-07-20,Dallas,Texas,32.40
+,2019-07-20,San Jose,California,31.30
+,2019-07-21,New York,New York,23.10
+,2019-07-21,Los Angeles,California,33.80
+,2019-07-21,Chicago,Illinois,27.50
+,2019-07-21,Houston,Texas,23.20
+,2019-07-21,Phoenix,Arizona,39.00
+,2019-07-21,Philadelphia,Pennsylvania,21.40
+,2019-07-21,San Antonio,Texas,33.70
+,2019-07-21,San Diego,California,35.30
+,2019-07-21,Dallas,Texas,39.20
+,2019-07-21,San Jose,California,35.10
+,2019-07-22,New York,New York,23.50
+,2019-07-22,Los Angeles,California,26.80
+,2019-07-22,Chicago,Illinois,28.50
+,2019-07-22,Houston,Texas,27.50
+,2019-07-22,Phoenix,Arizona,35.40
+,2019-07-22,Philadelphia,Pennsylvania,26.70
+,2019-07-22,San Antonio,Texas,36.80
+,2019-07-22,San Diego,California,20.90
+,2019-07-22,Dallas,Texas,27.30
+,2019-07-22,San Jose,California,28.30
+,2019-07-23,New York,New York,22.20
+,2019-07-23,Los Angeles,California,37.40
+,2019-07-23,Chicago,Illinois,40.30
+,2019-07-23,Houston,Texas,31.60
+,2019-07-23,Phoenix,Arizona,36.90
+,2019-07-23,Philadelphia,Pennsylvania,30.10
+,2019-07-23,San Antonio,Texas,38.40
+,2019-07-23,San Diego,California,21.70
+,2019-07-23,Dallas,Texas,23.80
+,2019-07-23,San Jose,California,23.30
+,2019-07-24,New York,New York,22.70
+,2019-07-24,Los Angeles,California,29.10
+,2019-07-24,Chicago,Illinois,31.60
+,2019-07-24,Houston,Texas,20.50
+,2019-07-24,Phoenix,Arizona,23.90
+,2019-07-24,Philadelphia,Pennsylvania,41.90
+,2019-07-24,San Antonio,Texas,36.40
+,2019-07-24,San Diego,California,31.70
+,2019-07-24,Dallas,Texas,34.30
+,2019-07-24,San Jose,California,39.60
+,2019-07-25,New York,New York,41.80
+,2019-07-25,Los Angeles,California,40.80
+,2019-07-25,Chicago,Illinois,25.00
+,2019-07-25,Houston,Texas,25.10
+,2019-07-25,Phoenix,Arizona,30.30
+,2019-07-25,Philadelphia,Pennsylvania,39.80
+,2019-07-25,San Antonio,Texas,39.10
+,2019-07-25,San Diego,California,30.60
+,2019-07-25,Dallas,Texas,39.00
+,2019-07-25,San Jose,California,38.40
+,2019-07-26,New York,New York,33.90
+,2019-07-26,Los Angeles,California,31.10
+,2019-07-26,Chicago,Illinois,24.50
+,2019-07-26,Houston,Texas,22.60
+,2019-07-26,Phoenix,Arizona,34.00
+,2019-07-26,Philadelphia,Pennsylvania,29.70
+,2019-07-26,San Antonio,Texas,29.40
+,2019-07-26,San Diego,California,26.50
+,2019-07-26,Dallas,Texas,36.50
+,2019-07-26,San Jose,California,22.00
+,2019-07-27,New York,New York,33.30
+,2019-07-27,Los Angeles,California,41.10
+,2019-07-27,Chicago,Illinois,40.40
+,2019-07-27,Houston,Texas,20.00
+,2019-07-27,Phoenix,Arizona,20.60
+,2019-07-27,Philadelphia,Pennsylvania,22.80
+,2019-07-27,San Antonio,Texas,28.30
+,2019-07-27,San Diego,California,33.40
+,2019-07-27,Dallas,Texas,34.40
+,2019-07-27,San Jose,California,23.50
+,2019-07-28,New York,New York,35.90
+,2019-07-28,Los Angeles,California,27.70
+,2019-07-28,Chicago,Illinois,23.70
+,2019-07-28,Houston,Texas,40.60
+,2019-07-28,Phoenix,Arizona,30.00
+,2019-07-28,Philadelphia,Pennsylvania,31.90
+,2019-07-28,San Antonio,Texas,37.40
+,2019-07-28,San Diego,California,27.20
+,2019-07-28,Dallas,Texas,23.20
+,2019-07-28,San Jose,California,33.60
+,2019-07-29,New York,New York,34.80
+,2019-07-29,Los Angeles,California,23.60
+,2019-07-29,Chicago,Illinois,36.70
+,2019-07-29,Houston,Texas,40.20
+,2019-07-29,Phoenix,Arizona,23.30
+,2019-07-29,Philadelphia,Pennsylvania,21.80
+,2019-07-29,San Antonio,Texas,30.50
+,2019-07-29,San Diego,California,38.90
+,2019-07-29,Dallas,Texas,37.10
+,2019-07-29,San Jose,California,38.40
+,2019-07-30,New York,New York,26.80
+,2019-07-30,Los Angeles,California,29.30
+,2019-07-30,Chicago,Illinois,30.40
+,2019-07-30,Houston,Texas,31.80
+,2019-07-30,Phoenix,Arizona,38.10
+,2019-07-30,Philadelphia,Pennsylvania,38.70
+,2019-07-30,San Antonio,Texas,25.80
+,2019-07-30,San Diego,California,32.10
+,2019-07-30,Dallas,Texas,33.70
+,2019-07-30,San Jose,California,31.20
+,2019-07-31,New York,New York,25.70
+,2019-07-31,Los Angeles,California,28.30
+,2019-07-31,Chicago,Illinois,36.00
+,2019-07-31,Houston,Texas,37.70
+,2019-07-31,Phoenix,Arizona,29.30
+,2019-07-31,Philadelphia,Pennsylvania,41.80
+,2019-07-31,San Antonio,Texas,29.00
+,2019-07-31,San Diego,California,20.10
+,2019-07-31,Dallas,Texas,25.90
+,2019-07-31,San Jose,California,30.20
+,2019-08-01,New York,New York,34.50
+,2019-08-01,Los Angeles,California,29.60
+,2019-08-01,Chicago,Illinois,23.10
+,2019-08-01,Houston,Texas,29.00
+,2019-08-01,Phoenix,Arizona,22.20
+,2019-08-01,Philadelphia,Pennsylvania,38.90
+,2019-08-01,San Antonio,Texas,20.70
+,2019-08-01,San Diego,California,30.60
+,2019-08-01,Dallas,Texas,35.80
+,2019-08-01,San Jose,California,26.10
+,2019-08-02,New York,New York,34.30
+,2019-08-02,Los Angeles,California,36.50
+,2019-08-02,Chicago,Illinois,34.30
+,2019-08-02,Houston,Texas,25.30
+,2019-08-02,Phoenix,Arizona,28.80
+,2019-08-02,Philadelphia,Pennsylvania,26.00
+,2019-08-02,San Antonio,Texas,20.30
+,2019-08-02,San Diego,California,35.80
+,2019-08-02,Dallas,Texas,36.90
+,2019-08-02,San Jose,California,22.30
+,2019-08-03,New York,New York,29.20
+,2019-08-03,Los Angeles,California,34.00
+,2019-08-03,Chicago,Illinois,34.50
+,2019-08-03,Houston,Texas,22.20
+,2019-08-03,Phoenix,Arizona,38.40
+,2019-08-03,Philadelphia,Pennsylvania,34.20
+,2019-08-03,San Antonio,Texas,28.50
+,2019-08-03,San Diego,California,41.00
+,2019-08-03,Dallas,Texas,40.50
+,2019-08-03,San Jose,California,32.00
+,2019-08-04,New York,New York,20.20
+,2019-08-04,Los Angeles,California,24.40
+,2019-08-04,Chicago,Illinois,35.30
+,2019-08-04,Houston,Texas,26.50
+,2019-08-04,Phoenix,Arizona,35.40
+,2019-08-04,Philadelphia,Pennsylvania,34.50
+,2019-08-04,San Antonio,Texas,21.20
+,2019-08-04,San Diego,California,34.50
+,2019-08-04,Dallas,Texas,32.40
+,2019-08-04,San Jose,California,41.90
+,2019-08-05,New York,New York,39.60
+,2019-08-05,Los Angeles,California,21.50
+,2019-08-05,Chicago,Illinois,38.40
+,2019-08-05,Houston,Texas,37.00
+,2019-08-05,Phoenix,Arizona,41.70
+,2019-08-05,Philadelphia,Pennsylvania,32.80
+,2019-08-05,San Antonio,Texas,37.80
+,2019-08-05,San Diego,California,37.10
+,2019-08-05,Dallas,Texas,40.90
+,2019-08-05,San Jose,California,39.40
+,2019-08-06,New York,New York,24.30
+,2019-08-06,Los Angeles,California,34.00
+,2019-08-06,Chicago,Illinois,25.50
+,2019-08-06,Houston,Texas,36.60
+,2019-08-06,Phoenix,Arizona,39.40
+,2019-08-06,Philadelphia,Pennsylvania,33.40
+,2019-08-06,San Antonio,Texas,20.20
+,2019-08-06,San Diego,California,28.60
+,2019-08-06,Dallas,Texas,30.70
+,2019-08-06,San Jose,California,35.10
+,2019-08-07,New York,New York,32.90
+,2019-08-07,Los Angeles,California,34.90
+,2019-08-07,Chicago,Illinois,34.60
+,2019-08-07,Houston,Texas,23.30
+,2019-08-07,Phoenix,Arizona,35.50
+,2019-08-07,Philadelphia,Pennsylvania,23.60
+,2019-08-07,San Antonio,Texas,26.60
+,2019-08-07,San Diego,California,40.60
+,2019-08-07,Dallas,Texas,22.30
+,2019-08-07,San Jose,California,34.70
+,2019-08-08,New York,New York,38.40
+,2019-08-08,Los Angeles,California,29.90
+,2019-08-08,Chicago,Illinois,22.30
+,2019-08-08,Houston,Texas,25.20
+,2019-08-08,Phoenix,Arizona,21.20
+,2019-08-08,Philadelphia,Pennsylvania,24.10
+,2019-08-08,San Antonio,Texas,31.60
+,2019-08-08,San Diego,California,21.10
+,2019-08-08,Dallas,Texas,30.10
+,2019-08-08,San Jose,California,39.90
+,2019-08-09,New York,New York,33.40
+,2019-08-09,Los Angeles,California,39.70
+,2019-08-09,Chicago,Illinois,31.10
+,2019-08-09,Houston,Texas,37.80
+,2019-08-09,Phoenix,Arizona,35.60
+,2019-08-09,Philadelphia,Pennsylvania,41.90
+,2019-08-09,San Antonio,Texas,36.70
+,2019-08-09,San Diego,California,33.30
+,2019-08-09,Dallas,Texas,30.00
+,2019-08-09,San Jose,California,32.50
+,2019-08-10,New York,New York,35.70
+,2019-08-10,Los Angeles,California,21.40
+,2019-08-10,Chicago,Illinois,30.50
+,2019-08-10,Houston,Texas,22.90
+,2019-08-10,Phoenix,Arizona,32.20
+,2019-08-10,Philadelphia,Pennsylvania,33.40
+,2019-08-10,San Antonio,Texas,21.20
+,2019-08-10,San Diego,California,31.10
+,2019-08-10,Dallas,Texas,21.40
+,2019-08-10,San Jose,California,36.70
+,2019-08-11,New York,New York,23.70
+,2019-08-11,Los Angeles,California,24.10
+,2019-08-11,Chicago,Illinois,31.90
+,2019-08-11,Houston,Texas,28.40
+,2019-08-11,Phoenix,Arizona,34.70
+,2019-08-11,Philadelphia,Pennsylvania,26.70
+,2019-08-11,San Antonio,Texas,31.10
+,2019-08-11,San Diego,California,31.00
+,2019-08-11,Dallas,Texas,20.10
+,2019-08-11,San Jose,California,41.40
+,2019-08-12,New York,New York,27.70
+,2019-08-12,Los Angeles,California,26.70
+,2019-08-12,Chicago,Illinois,38.30
+,2019-08-12,Houston,Texas,37.10
+,2019-08-12,Phoenix,Arizona,28.10
+,2019-08-12,Philadelphia,Pennsylvania,41.70
+,2019-08-12,San Antonio,Texas,26.70
+,2019-08-12,San Diego,California,22.40
+,2019-08-12,Dallas,Texas,36.90
+,2019-08-12,San Jose,California,39.80
+,2019-08-13,New York,New York,40.40
+,2019-08-13,Los Angeles,California,37.90
+,2019-08-13,Chicago,Illinois,28.70
+,2019-08-13,Houston,Texas,31.70
+,2019-08-13,Phoenix,Arizona,31.20
+,2019-08-13,Philadelphia,Pennsylvania,29.10
+,2019-08-13,San Antonio,Texas,36.60
+,2019-08-13,San Diego,California,20.10
+,2019-08-13,Dallas,Texas,32.00
+,2019-08-13,San Jose,California,26.00
+,2019-08-14,New York,New York,35.30
+,2019-08-14,Los Angeles,California,26.00
+,2019-08-14,Chicago,Illinois,24.30
+,2019-08-14,Houston,Texas,32.40
+,2019-08-14,Phoenix,Arizona,25.20
+,2019-08-14,Philadelphia,Pennsylvania,32.00
+,2019-08-14,San Antonio,Texas,30.20
+,2019-08-14,San Diego,California,34.30
+,2019-08-14,Dallas,Texas,30.20
+,2019-08-14,San Jose,California,21.00
+,2019-08-15,New York,New York,34.20
+,2019-08-15,Los Angeles,California,39.70
+,2019-08-15,Chicago,Illinois,31.30
+,2019-08-15,Houston,Texas,29.30
+,2019-08-15,Phoenix,Arizona,25.90
+,2019-08-15,Philadelphia,Pennsylvania,23.10
+,2019-08-15,San Antonio,Texas,28.50
+,2019-08-15,San Diego,California,26.30
+,2019-08-15,Dallas,Texas,24.90
+,2019-08-15,San Jose,California,34.00
+,2019-08-16,New York,New York,36.70
+,2019-08-16,Los Angeles,California,40.60
+,2019-08-16,Chicago,Illinois,30.00
+,2019-08-16,Houston,Texas,27.00
+,2019-08-16,Phoenix,Arizona,26.10
+,2019-08-16,Philadelphia,Pennsylvania,31.90
+,2019-08-16,San Antonio,Texas,25.60
+,2019-08-16,San Diego,California,24.70
+,2019-08-16,Dallas,Texas,38.00
+,2019-08-16,San Jose,California,26.20
+,2019-08-17,New York,New York,26.30
+,2019-08-17,Los Angeles,California,23.40
+,2019-08-17,Chicago,Illinois,30.30
+,2019-08-17,Houston,Texas,23.70
+,2019-08-17,Phoenix,Arizona,31.10
+,2019-08-17,Philadelphia,Pennsylvania,40.80
+,2019-08-17,San Antonio,Texas,37.00
+,2019-08-17,San Diego,California,31.20
+,2019-08-17,Dallas,Texas,31.30
+,2019-08-17,San Jose,California,34.80
+,2019-08-18,New York,New York,37.70
+,2019-08-18,Los Angeles,California,28.70
+,2019-08-18,Chicago,Illinois,37.20
+,2019-08-18,Houston,Texas,22.30
+,2019-08-18,Phoenix,Arizona,20.90
+,2019-08-18,Philadelphia,Pennsylvania,25.10
+,2019-08-18,San Antonio,Texas,27.90
+,2019-08-18,San Diego,California,37.10
+,2019-08-18,Dallas,Texas,35.40
+,2019-08-18,San Jose,California,39.00
+,2019-08-19,New York,New York,33.50
+,2019-08-19,Los Angeles,California,37.90
+,2019-08-19,Chicago,Illinois,36.50
+,2019-08-19,Houston,Texas,25.10
+,2019-08-19,Phoenix,Arizona,31.40
+,2019-08-19,Philadelphia,Pennsylvania,32.90
+,2019-08-19,San Antonio,Texas,25.60
+,2019-08-19,San Diego,California,25.80
+,2019-08-19,Dallas,Texas,39.80
+,2019-08-19,San Jose,California,31.70
+,2019-08-20,New York,New York,25.60
+,2019-08-20,Los Angeles,California,22.50
+,2019-08-20,Chicago,Illinois,27.30
+,2019-08-20,Houston,Texas,35.00
+,2019-08-20,Phoenix,Arizona,34.10
+,2019-08-20,Philadelphia,Pennsylvania,29.00
+,2019-08-20,San Antonio,Texas,33.70
+,2019-08-20,San Diego,California,34.60
+,2019-08-20,Dallas,Texas,22.50
+,2019-08-20,San Jose,California,32.40
+,2019-08-21,New York,New York,31.10
+,2019-08-21,Los Angeles,California,30.70
+,2019-08-21,Chicago,Illinois,31.40
+,2019-08-21,Houston,Texas,34.30
+,2019-08-21,Phoenix,Arizona,37.50
+,2019-08-21,Philadelphia,Pennsylvania,29.90
+,2019-08-21,San Antonio,Texas,21.70
+,2019-08-21,San Diego,California,27.40
+,2019-08-21,Dallas,Texas,41.70
+,2019-08-21,San Jose,California,30.20
+,2019-08-22,New York,New York,33.90
+,2019-08-22,Los Angeles,California,35.00
+,2019-08-22,Chicago,Illinois,25.50
+,2019-08-22,Houston,Texas,30.30
+,2019-08-22,Phoenix,Arizona,37.30
+,2019-08-22,Philadelphia,Pennsylvania,23.30
+,2019-08-22,San Antonio,Texas,34.10
+,2019-08-22,San Diego,California,24.30
+,2019-08-22,Dallas,Texas,32.50
+,2019-08-22,San Jose,California,41.00
+,2019-08-23,New York,New York,21.20
+,2019-08-23,Los Angeles,California,28.70
+,2019-08-23,Chicago,Illinois,32.70
+,2019-08-23,Houston,Texas,35.40
+,2019-08-23,Phoenix,Arizona,36.90
+,2019-08-23,Philadelphia,Pennsylvania,32.50
+,2019-08-23,San Antonio,Texas,39.10
+,2019-08-23,San Diego,California,34.40
+,2019-08-23,Dallas,Texas,37.10
+,2019-08-23,San Jose,California,21.90
+,2019-08-24,New York,New York,40.70
+,2019-08-24,Los Angeles,California,30.70
+,2019-08-24,Chicago,Illinois,29.50
+,2019-08-24,Houston,Texas,38.40
+,2019-08-24,Phoenix,Arizona,37.20
+,2019-08-24,Philadelphia,Pennsylvania,20.70
+,2019-08-24,San Antonio,Texas,28.60
+,2019-08-24,San Diego,California,27.30
+,2019-08-24,Dallas,Texas,40.70
+,2019-08-24,San Jose,California,29.40
+,2019-08-25,New York,New York,31.20
+,2019-08-25,Los Angeles,California,34.00
+,2019-08-25,Chicago,Illinois,38.30
+,2019-08-25,Houston,Texas,35.40
+,2019-08-25,Phoenix,Arizona,28.10
+,2019-08-25,Philadelphia,Pennsylvania,28.70
+,2019-08-25,San Antonio,Texas,36.40
+,2019-08-25,San Diego,California,22.10
+,2019-08-25,Dallas,Texas,38.80
+,2019-08-25,San Jose,California,28.10
+,2019-08-26,New York,New York,41.90
+,2019-08-26,Los Angeles,California,39.00
+,2019-08-26,Chicago,Illinois,31.70
+,2019-08-26,Houston,Texas,32.60
+,2019-08-26,Phoenix,Arizona,20.20
+,2019-08-26,Philadelphia,Pennsylvania,37.70
+,2019-08-26,San Antonio,Texas,31.50
+,2019-08-26,San Diego,California,34.70
+,2019-08-26,Dallas,Texas,23.40
+,2019-08-26,San Jose,California,20.40
+,2019-08-27,New York,New York,38.10
+,2019-08-27,Los Angeles,California,21.30
+,2019-08-27,Chicago,Illinois,41.10
+,2019-08-27,Houston,Texas,32.40
+,2019-08-27,Phoenix,Arizona,40.70
+,2019-08-27,Philadelphia,Pennsylvania,25.20
+,2019-08-27,San Antonio,Texas,35.00
+,2019-08-27,San Diego,California,28.20
+,2019-08-27,Dallas,Texas,21.00
+,2019-08-27,San Jose,California,20.90
+,2019-08-28,New York,New York,31.00
+,2019-08-28,Los Angeles,California,32.90
+,2019-08-28,Chicago,Illinois,32.50
+,2019-08-28,Houston,Texas,33.50
+,2019-08-28,Phoenix,Arizona,31.80
+,2019-08-28,Philadelphia,Pennsylvania,35.60
+,2019-08-28,San Antonio,Texas,39.10
+,2019-08-28,San Diego,California,39.10
+,2019-08-28,Dallas,Texas,30.10
+,2019-08-28,San Jose,California,32.00
+,2019-08-29,New York,New York,33.70
+,2019-08-29,Los Angeles,California,31.40
+,2019-08-29,Chicago,Illinois,27.30
+,2019-08-29,Houston,Texas,31.20
+,2019-08-29,Phoenix,Arizona,23.90
+,2019-08-29,Philadelphia,Pennsylvania,35.60
+,2019-08-29,San Antonio,Texas,32.40
+,2019-08-29,San Diego,California,21.90
+,2019-08-29,Dallas,Texas,35.40
+,2019-08-29,San Jose,California,24.60
+,2019-08-30,New York,New York,35.60
+,2019-08-30,Los Angeles,California,35.80
+,2019-08-30,Chicago,Illinois,24.20
+,2019-08-30,Houston,Texas,32.80
+,2019-08-30,Phoenix,Arizona,28.20
+,2019-08-30,Philadelphia,Pennsylvania,22.70
+,2019-08-30,San Antonio,Texas,22.80
+,2019-08-30,San Diego,California,20.40
+,2019-08-30,Dallas,Texas,24.40
+,2019-08-30,San Jose,California,29.60
+,2019-08-31,New York,New York,41.20
+,2019-08-31,Los Angeles,California,36.90
+,2019-08-31,Chicago,Illinois,29.70
+,2019-08-31,Houston,Texas,32.70
+,2019-08-31,Phoenix,Arizona,26.20
+,2019-08-31,Philadelphia,Pennsylvania,35.60
+,2019-08-31,San Antonio,Texas,32.40
+,2019-08-31,San Diego,California,30.60
+,2019-08-31,Dallas,Texas,30.70
+,2019-08-31,San Jose,California,31.70
+,2019-09-01,New York,New York,28.00
+,2019-09-01,Los Angeles,California,18.60
+,2019-09-01,Chicago,Illinois,12.40
+,2019-09-01,Houston,Texas,28.80
+,2019-09-01,Phoenix,Arizona,29.10
+,2019-09-01,Philadelphia,Pennsylvania,11.30
+,2019-09-01,San Antonio,Texas,12.90
+,2019-09-01,San Diego,California,26.70
+,2019-09-01,Dallas,Texas,19.40
+,2019-09-01,San Jose,California,10.20
+,2019-09-02,New York,New York,28.40
+,2019-09-02,Los Angeles,California,18.10
+,2019-09-02,Chicago,Illinois,20.90
+,2019-09-02,Houston,Texas,16.20
+,2019-09-02,Phoenix,Arizona,15.30
+,2019-09-02,Philadelphia,Pennsylvania,26.50
+,2019-09-02,San Antonio,Texas,15.40
+,2019-09-02,San Diego,California,26.40
+,2019-09-02,Dallas,Texas,18.10
+,2019-09-02,San Jose,California,20.30
+,2019-09-03,New York,New York,17.20
+,2019-09-03,Los Angeles,California,12.70
+,2019-09-03,Chicago,Illinois,23.10
+,2019-09-03,Houston,Texas,15.80
+,2019-09-03,Phoenix,Arizona,26.00
+,2019-09-03,Philadelphia,Pennsylvania,21.50
+,2019-09-03,San Antonio,Texas,21.70
+,2019-09-03,San Diego,California,21.70
+,2019-09-03,Dallas,Texas,21.50
+,2019-09-03,San Jose,California,15.10
+,2019-09-04,New York,New York,19.90
+,2019-09-04,Los Angeles,California,16.10
+,2019-09-04,Chicago,Illinois,29.30
+,2019-09-04,Houston,Texas,14.30
+,2019-09-04,Phoenix,Arizona,11.50
+,2019-09-04,Philadelphia,Pennsylvania,12.50
+,2019-09-04,San Antonio,Texas,15.10
+,2019-09-04,San Diego,California,29.60
+,2019-09-04,Dallas,Texas,23.40
+,2019-09-04,San Jose,California,24.80
+,2019-09-05,New York,New York,11.50
+,2019-09-05,Los Angeles,California,14.20
+,2019-09-05,Chicago,Illinois,25.40
+,2019-09-05,Houston,Texas,29.80
+,2019-09-05,Phoenix,Arizona,12.60
+,2019-09-05,Philadelphia,Pennsylvania,14.10
+,2019-09-05,San Antonio,Texas,26.80
+,2019-09-05,San Diego,California,11.50
+,2019-09-05,Dallas,Texas,14.60
+,2019-09-05,San Jose,California,25.60
+,2019-09-06,New York,New York,15.60
+,2019-09-06,Los Angeles,California,21.90
+,2019-09-06,Chicago,Illinois,13.40
+,2019-09-06,Houston,Texas,22.50
+,2019-09-06,Phoenix,Arizona,14.90
+,2019-09-06,Philadelphia,Pennsylvania,21.70
+,2019-09-06,San Antonio,Texas,11.30
+,2019-09-06,San Diego,California,20.50
+,2019-09-06,Dallas,Texas,20.60
+,2019-09-06,San Jose,California,22.20
+,2019-09-07,New York,New York,16.60
+,2019-09-07,Los Angeles,California,10.70
+,2019-09-07,Chicago,Illinois,19.60
+,2019-09-07,Houston,Texas,18.40
+,2019-09-07,Phoenix,Arizona,18.60
+,2019-09-07,Philadelphia,Pennsylvania,17.80
+,2019-09-07,San Antonio,Texas,17.80
+,2019-09-07,San Diego,California,21.90
+,2019-09-07,Dallas,Texas,12.40
+,2019-09-07,San Jose,California,22.50
+,2019-09-08,New York,New York,20.30
+,2019-09-08,Los Angeles,California,20.60
+,2019-09-08,Chicago,Illinois,15.00
+,2019-09-08,Houston,Texas,24.80
+,2019-09-08,Phoenix,Arizona,26.80
+,2019-09-08,Philadelphia,Pennsylvania,17.20
+,2019-09-08,San Antonio,Texas,14.40
+,2019-09-08,San Diego,California,10.40
+,2019-09-08,Dallas,Texas,19.80
+,2019-09-08,San Jose,California,24.30
+,2019-09-09,New York,New York,12.60
+,2019-09-09,Los Angeles,California,21.50
+,2019-09-09,Chicago,Illinois,19.80
+,2019-09-09,Houston,Texas,24.60
+,2019-09-09,Phoenix,Arizona,24.30
+,2019-09-09,Philadelphia,Pennsylvania,29.30
+,2019-09-09,San Antonio,Texas,22.40
+,2019-09-09,San Diego,California,16.80
+,2019-09-09,Dallas,Texas,27.10
+,2019-09-09,San Jose,California,16.70
+,2019-09-10,New York,New York,18.90
+,2019-09-10,Los Angeles,California,24.00
+,2019-09-10,Chicago,Illinois,19.10
+,2019-09-10,Houston,Texas,27.00
+,2019-09-10,Phoenix,Arizona,27.50
+,2019-09-10,Philadelphia,Pennsylvania,18.30
+,2019-09-10,San Antonio,Texas,17.70
+,2019-09-10,San Diego,California,15.30
+,2019-09-10,Dallas,Texas,12.50
+,2019-09-10,San Jose,California,25.10
+,2019-09-11,New York,New York,19.70
+,2019-09-11,Los Angeles,California,27.50
+,2019-09-11,Chicago,Illinois,18.70
+,2019-09-11,Houston,Texas,19.80
+,2019-09-11,Phoenix,Arizona,29.00
+,2019-09-11,Philadelphia,Pennsylvania,20.80
+,2019-09-11,San Antonio,Texas,22.00
+,2019-09-11,San Diego,California,20.80
+,2019-09-11,Dallas,Texas,27.70
+,2019-09-11,San Jose,California,11.60
+,2019-09-12,New York,New York,21.00
+,2019-09-12,Los Angeles,California,20.40
+,2019-09-12,Chicago,Illinois,20.60
+,2019-09-12,Houston,Texas,21.80
+,2019-09-12,Phoenix,Arizona,22.60
+,2019-09-12,Philadelphia,Pennsylvania,16.40
+,2019-09-12,San Antonio,Texas,18.30
+,2019-09-12,San Diego,California,21.90
+,2019-09-12,Dallas,Texas,11.00
+,2019-09-12,San Jose,California,29.10
+,2019-09-13,New York,New York,13.10
+,2019-09-13,Los Angeles,California,29.10
+,2019-09-13,Chicago,Illinois,21.90
+,2019-09-13,Houston,Texas,21.20
+,2019-09-13,Phoenix,Arizona,26.30
+,2019-09-13,Philadelphia,Pennsylvania,26.60
+,2019-09-13,San Antonio,Texas,22.90
+,2019-09-13,San Diego,California,21.60
+,2019-09-13,Dallas,Texas,15.00
+,2019-09-13,San Jose,California,15.40
+,2019-09-14,New York,New York,11.20
+,2019-09-14,Los Angeles,California,26.40
+,2019-09-14,Chicago,Illinois,15.70
+,2019-09-14,Houston,Texas,26.90
+,2019-09-14,Phoenix,Arizona,10.20
+,2019-09-14,Philadelphia,Pennsylvania,20.40
+,2019-09-14,San Antonio,Texas,27.20
+,2019-09-14,San Diego,California,18.40
+,2019-09-14,Dallas,Texas,11.50
+,2019-09-14,San Jose,California,23.70
+,2019-09-15,New York,New York,16.30
+,2019-09-15,Los Angeles,California,14.30
+,2019-09-15,Chicago,Illinois,28.10
+,2019-09-15,Houston,Texas,17.00
+,2019-09-15,Phoenix,Arizona,14.70
+,2019-09-15,Philadelphia,Pennsylvania,13.90
+,2019-09-15,San Antonio,Texas,19.60
+,2019-09-15,San Diego,California,18.80
+,2019-09-15,Dallas,Texas,18.80
+,2019-09-15,San Jose,California,20.20
+,2019-09-16,New York,New York,24.50
+,2019-09-16,Los Angeles,California,19.30
+,2019-09-16,Chicago,Illinois,26.80
+,2019-09-16,Houston,Texas,19.70
+,2019-09-16,Phoenix,Arizona,11.30
+,2019-09-16,Philadelphia,Pennsylvania,16.50
+,2019-09-16,San Antonio,Texas,25.30
+,2019-09-16,San Diego,California,18.00
+,2019-09-16,Dallas,Texas,16.10
+,2019-09-16,San Jose,California,28.60
+,2019-09-17,New York,New York,12.50
+,2019-09-17,Los Angeles,California,20.60
+,2019-09-17,Chicago,Illinois,17.70
+,2019-09-17,Houston,Texas,13.90
+,2019-09-17,Phoenix,Arizona,11.20
+,2019-09-17,Philadelphia,Pennsylvania,23.20
+,2019-09-17,San Antonio,Texas,13.30
+,2019-09-17,San Diego,California,27.60
+,2019-09-17,Dallas,Texas,11.40
+,2019-09-17,San Jose,California,14.90
+,2019-09-18,New York,New York,16.80
+,2019-09-18,Los Angeles,California,28.60
+,2019-09-18,Chicago,Illinois,17.20
+,2019-09-18,Houston,Texas,25.20
+,2019-09-18,Phoenix,Arizona,24.80
+,2019-09-18,Philadelphia,Pennsylvania,28.50
+,2019-09-18,San Antonio,Texas,24.50
+,2019-09-18,San Diego,California,13.60
+,2019-09-18,Dallas,Texas,17.60
+,2019-09-18,San Jose,California,23.80
+,2019-09-19,New York,New York,14.10
+,2019-09-19,Los Angeles,California,12.90
+,2019-09-19,Chicago,Illinois,12.30
+,2019-09-19,Houston,Texas,26.60
+,2019-09-19,Phoenix,Arizona,27.70
+,2019-09-19,Philadelphia,Pennsylvania,15.50
+,2019-09-19,San Antonio,Texas,26.00
+,2019-09-19,San Diego,California,19.70
+,2019-09-19,Dallas,Texas,20.30
+,2019-09-19,San Jose,California,24.40
+,2019-09-20,New York,New York,23.20
+,2019-09-20,Los Angeles,California,14.90
+,2019-09-20,Chicago,Illinois,15.10
+,2019-09-20,Houston,Texas,12.10
+,2019-09-20,Phoenix,Arizona,14.40
+,2019-09-20,Philadelphia,Pennsylvania,29.50
+,2019-09-20,San Antonio,Texas,13.50
+,2019-09-20,San Diego,California,10.30
+,2019-09-20,Dallas,Texas,24.40
+,2019-09-20,San Jose,California,21.30
+,2019-09-21,New York,New York,24.10
+,2019-09-21,Los Angeles,California,11.10
+,2019-09-21,Chicago,Illinois,22.30
+,2019-09-21,Houston,Texas,24.90
+,2019-09-21,Phoenix,Arizona,26.90
+,2019-09-21,Philadelphia,Pennsylvania,21.20
+,2019-09-21,San Antonio,Texas,23.50
+,2019-09-21,San Diego,California,12.40
+,2019-09-21,Dallas,Texas,28.30
+,2019-09-21,San Jose,California,18.20
+,2019-09-22,New York,New York,28.10
+,2019-09-22,Los Angeles,California,12.70
+,2019-09-22,Chicago,Illinois,17.30
+,2019-09-22,Houston,Texas,25.60
+,2019-09-22,Phoenix,Arizona,13.40
+,2019-09-22,Philadelphia,Pennsylvania,23.50
+,2019-09-22,San Antonio,Texas,28.60
+,2019-09-22,San Diego,California,23.00
+,2019-09-22,Dallas,Texas,14.00
+,2019-09-22,San Jose,California,11.60
+,2019-09-23,New York,New York,16.80
+,2019-09-23,Los Angeles,California,27.30
+,2019-09-23,Chicago,Illinois,23.00
+,2019-09-23,Houston,Texas,23.70
+,2019-09-23,Phoenix,Arizona,19.30
+,2019-09-23,Philadelphia,Pennsylvania,13.20
+,2019-09-23,San Antonio,Texas,13.00
+,2019-09-23,San Diego,California,25.50
+,2019-09-23,Dallas,Texas,20.10
+,2019-09-23,San Jose,California,12.20
+,2019-09-24,New York,New York,21.40
+,2019-09-24,Los Angeles,California,17.50
+,2019-09-24,Chicago,Illinois,22.70
+,2019-09-24,Houston,Texas,14.30
+,2019-09-24,Phoenix,Arizona,27.90
+,2019-09-24,Philadelphia,Pennsylvania,21.10
+,2019-09-24,San Antonio,Texas,18.50
+,2019-09-24,San Diego,California,29.50
+,2019-09-24,Dallas,Texas,20.90
+,2019-09-24,San Jose,California,20.40
+,2019-09-25,New York,New York,16.20
+,2019-09-25,Los Angeles,California,11.00
+,2019-09-25,Chicago,Illinois,21.80
+,2019-09-25,Houston,Texas,22.20
+,2019-09-25,Phoenix,Arizona,16.50
+,2019-09-25,Philadelphia,Pennsylvania,25.70
+,2019-09-25,San Antonio,Texas,12.90
+,2019-09-25,San Diego,California,23.50
+,2019-09-25,Dallas,Texas,25.70
+,2019-09-25,San Jose,California,21.40
+,2019-09-26,New York,New York,13.60
+,2019-09-26,Los Angeles,California,22.40
+,2019-09-26,Chicago,Illinois,23.60
+,2019-09-26,Houston,Texas,10.20
+,2019-09-26,Phoenix,Arizona,10.50
+,2019-09-26,Philadelphia,Pennsylvania,28.60
+,2019-09-26,San Antonio,Texas,22.80
+,2019-09-26,San Diego,California,26.50
+,2019-09-26,Dallas,Texas,15.90
+,2019-09-26,San Jose,California,19.00
+,2019-09-27,New York,New York,17.40
+,2019-09-27,Los Angeles,California,15.60
+,2019-09-27,Chicago,Illinois,26.40
+,2019-09-27,Houston,Texas,17.80
+,2019-09-27,Phoenix,Arizona,28.60
+,2019-09-27,Philadelphia,Pennsylvania,20.90
+,2019-09-27,San Antonio,Texas,12.30
+,2019-09-27,San Diego,California,18.90
+,2019-09-27,Dallas,Texas,21.90
+,2019-09-27,San Jose,California,23.70
+,2019-09-28,New York,New York,15.00
+,2019-09-28,Los Angeles,California,17.90
+,2019-09-28,Chicago,Illinois,27.50
+,2019-09-28,Houston,Texas,18.80
+,2019-09-28,Phoenix,Arizona,10.10
+,2019-09-28,Philadelphia,Pennsylvania,13.30
+,2019-09-28,San Antonio,Texas,19.80
+,2019-09-28,San Diego,California,23.30
+,2019-09-28,Dallas,Texas,10.40
+,2019-09-28,San Jose,California,17.30
+,2019-09-29,New York,New York,23.10
+,2019-09-29,Los Angeles,California,12.40
+,2019-09-29,Chicago,Illinois,11.60
+,2019-09-29,Houston,Texas,25.90
+,2019-09-29,Phoenix,Arizona,10.80
+,2019-09-29,Philadelphia,Pennsylvania,27.90
+,2019-09-29,San Antonio,Texas,26.70
+,2019-09-29,San Diego,California,12.20
+,2019-09-29,Dallas,Texas,13.00
+,2019-09-29,San Jose,California,17.20
+,2019-09-30,New York,New York,23.00
+,2019-09-30,Los Angeles,California,15.10
+,2019-09-30,Chicago,Illinois,17.50
+,2019-09-30,Houston,Texas,21.00
+,2019-09-30,Phoenix,Arizona,11.60
+,2019-09-30,Philadelphia,Pennsylvania,27.30
+,2019-09-30,San Antonio,Texas,14.10
+,2019-09-30,San Diego,California,20.30
+,2019-09-30,Dallas,Texas,18.60
+,2019-09-30,San Jose,California,10.40
+,2019-10-01,New York,New York,24.10
+,2019-10-01,Los Angeles,California,17.00
+,2019-10-01,Chicago,Illinois,12.90
+,2019-10-01,Houston,Texas,28.60
+,2019-10-01,Phoenix,Arizona,13.60
+,2019-10-01,Philadelphia,Pennsylvania,11.40
+,2019-10-01,San Antonio,Texas,11.50
+,2019-10-01,San Diego,California,18.20
+,2019-10-01,Dallas,Texas,13.40
+,2019-10-01,San Jose,California,16.90
+,2019-10-02,New York,New York,13.30
+,2019-10-02,Los Angeles,California,27.20
+,2019-10-02,Chicago,Illinois,17.60
+,2019-10-02,Houston,Texas,22.80
+,2019-10-02,Phoenix,Arizona,18.30
+,2019-10-02,Philadelphia,Pennsylvania,21.20
+,2019-10-02,San Antonio,Texas,19.50
+,2019-10-02,San Diego,California,20.20
+,2019-10-02,Dallas,Texas,23.50
+,2019-10-02,San Jose,California,23.80
+,2019-10-03,New York,New York,18.60
+,2019-10-03,Los Angeles,California,16.90
+,2019-10-03,Chicago,Illinois,20.00
+,2019-10-03,Houston,Texas,10.10
+,2019-10-03,Phoenix,Arizona,26.70
+,2019-10-03,Philadelphia,Pennsylvania,16.20
+,2019-10-03,San Antonio,Texas,15.80
+,2019-10-03,San Diego,California,21.40
+,2019-10-03,Dallas,Texas,12.30
+,2019-10-03,San Jose,California,16.90
+,2019-10-04,New York,New York,13.60
+,2019-10-04,Los Angeles,California,16.30
+,2019-10-04,Chicago,Illinois,29.00
+,2019-10-04,Houston,Texas,25.40
+,2019-10-04,Phoenix,Arizona,25.00
+,2019-10-04,Philadelphia,Pennsylvania,16.00
+,2019-10-04,San Antonio,Texas,23.40
+,2019-10-04,San Diego,California,22.70
+,2019-10-04,Dallas,Texas,18.30
+,2019-10-04,San Jose,California,15.70
+,2019-10-05,New York,New York,16.40
+,2019-10-05,Los Angeles,California,21.60
+,2019-10-05,Chicago,Illinois,12.30
+,2019-10-05,Houston,Texas,21.40
+,2019-10-05,Phoenix,Arizona,11.20
+,2019-10-05,Philadelphia,Pennsylvania,17.00
+,2019-10-05,San Antonio,Texas,15.10
+,2019-10-05,San Diego,California,11.30
+,2019-10-05,Dallas,Texas,18.00
+,2019-10-05,San Jose,California,15.20
+,2019-10-06,New York,New York,28.00
+,2019-10-06,Los Angeles,California,10.30
+,2019-10-06,Chicago,Illinois,13.60
+,2019-10-06,Houston,Texas,21.00
+,2019-10-06,Phoenix,Arizona,14.20
+,2019-10-06,Philadelphia,Pennsylvania,16.60
+,2019-10-06,San Antonio,Texas,11.90
+,2019-10-06,San Diego,California,19.30
+,2019-10-06,Dallas,Texas,18.50
+,2019-10-06,San Jose,California,17.30
+,2019-10-07,New York,New York,11.40
+,2019-10-07,Los Angeles,California,22.30
+,2019-10-07,Chicago,Illinois,17.50
+,2019-10-07,Houston,Texas,25.90
+,2019-10-07,Phoenix,Arizona,23.30
+,2019-10-07,Philadelphia,Pennsylvania,19.60
+,2019-10-07,San Antonio,Texas,11.00
+,2019-10-07,San Diego,California,15.30
+,2019-10-07,Dallas,Texas,15.60
+,2019-10-07,San Jose,California,29.20
+,2019-10-08,New York,New York,13.70
+,2019-10-08,Los Angeles,California,18.50
+,2019-10-08,Chicago,Illinois,20.30
+,2019-10-08,Houston,Texas,17.60
+,2019-10-08,Phoenix,Arizona,21.20
+,2019-10-08,Philadelphia,Pennsylvania,13.20
+,2019-10-08,San Antonio,Texas,25.00
+,2019-10-08,San Diego,California,21.40
+,2019-10-08,Dallas,Texas,16.90
+,2019-10-08,San Jose,California,28.80
+,2019-10-09,New York,New York,11.20
+,2019-10-09,Los Angeles,California,20.00
+,2019-10-09,Chicago,Illinois,28.90
+,2019-10-09,Houston,Texas,11.80
+,2019-10-09,Phoenix,Arizona,15.60
+,2019-10-09,Philadelphia,Pennsylvania,14.50
+,2019-10-09,San Antonio,Texas,25.20
+,2019-10-09,San Diego,California,10.10
+,2019-10-09,Dallas,Texas,24.50
+,2019-10-09,San Jose,California,25.00
+,2019-10-10,New York,New York,22.90
+,2019-10-10,Los Angeles,California,29.30
+,2019-10-10,Chicago,Illinois,19.30
+,2019-10-10,Houston,Texas,16.40
+,2019-10-10,Phoenix,Arizona,26.60
+,2019-10-10,Philadelphia,Pennsylvania,27.90
+,2019-10-10,San Antonio,Texas,27.00
+,2019-10-10,San Diego,California,16.50
+,2019-10-10,Dallas,Texas,21.20
+,2019-10-10,San Jose,California,29.00
+,2019-10-11,New York,New York,18.50
+,2019-10-11,Los Angeles,California,20.90
+,2019-10-11,Chicago,Illinois,28.50
+,2019-10-11,Houston,Texas,25.30
+,2019-10-11,Phoenix,Arizona,19.70
+,2019-10-11,Philadelphia,Pennsylvania,28.20
+,2019-10-11,San Antonio,Texas,16.00
+,2019-10-11,San Diego,California,22.60
+,2019-10-11,Dallas,Texas,29.60
+,2019-10-11,San Jose,California,19.40
+,2019-10-12,New York,New York,15.60
+,2019-10-12,Los Angeles,California,11.30
+,2019-10-12,Chicago,Illinois,14.70
+,2019-10-12,Houston,Texas,16.40
+,2019-10-12,Phoenix,Arizona,26.60
+,2019-10-12,Philadelphia,Pennsylvania,23.30
+,2019-10-12,San Antonio,Texas,10.40
+,2019-10-12,San Diego,California,22.70
+,2019-10-12,Dallas,Texas,14.00
+,2019-10-12,San Jose,California,28.70
+,2019-10-13,New York,New York,25.50
+,2019-10-13,Los Angeles,California,13.30
+,2019-10-13,Chicago,Illinois,12.30
+,2019-10-13,Houston,Texas,21.90
+,2019-10-13,Phoenix,Arizona,29.00
+,2019-10-13,Philadelphia,Pennsylvania,11.80
+,2019-10-13,San Antonio,Texas,26.40
+,2019-10-13,San Diego,California,13.70
+,2019-10-13,Dallas,Texas,28.70
+,2019-10-13,San Jose,California,16.90
+,2019-10-14,New York,New York,18.20
+,2019-10-14,Los Angeles,California,16.10
+,2019-10-14,Chicago,Illinois,26.10
+,2019-10-14,Houston,Texas,25.00
+,2019-10-14,Phoenix,Arizona,25.60
+,2019-10-14,Philadelphia,Pennsylvania,22.80
+,2019-10-14,San Antonio,Texas,11.60
+,2019-10-14,San Diego,California,12.70
+,2019-10-14,Dallas,Texas,12.40
+,2019-10-14,San Jose,California,26.90
+,2019-10-15,New York,New York,14.80
+,2019-10-15,Los Angeles,California,20.30
+,2019-10-15,Chicago,Illinois,22.00
+,2019-10-15,Houston,Texas,22.00
+,2019-10-15,Phoenix,Arizona,20.30
+,2019-10-15,Philadelphia,Pennsylvania,19.80
+,2019-10-15,San Antonio,Texas,27.40
+,2019-10-15,San Diego,California,24.30
+,2019-10-15,Dallas,Texas,29.20
+,2019-10-15,San Jose,California,13.90
+,2019-10-16,New York,New York,11.70
+,2019-10-16,Los Angeles,California,15.40
+,2019-10-16,Chicago,Illinois,13.40
+,2019-10-16,Houston,Texas,11.80
+,2019-10-16,Phoenix,Arizona,29.30
+,2019-10-16,Philadelphia,Pennsylvania,29.80
+,2019-10-16,San Antonio,Texas,20.00
+,2019-10-16,San Diego,California,14.50
+,2019-10-16,Dallas,Texas,18.80
+,2019-10-16,San Jose,California,27.60
+,2019-10-17,New York,New York,17.90
+,2019-10-17,Los Angeles,California,24.50
+,2019-10-17,Chicago,Illinois,20.40
+,2019-10-17,Houston,Texas,20.20
+,2019-10-17,Phoenix,Arizona,10.30
+,2019-10-17,Philadelphia,Pennsylvania,29.20
+,2019-10-17,San Antonio,Texas,22.40
+,2019-10-17,San Diego,California,25.00
+,2019-10-17,Dallas,Texas,20.30
+,2019-10-17,San Jose,California,29.70
+,2019-10-18,New York,New York,26.50
+,2019-10-18,Los Angeles,California,21.50
+,2019-10-18,Chicago,Illinois,26.40
+,2019-10-18,Houston,Texas,25.00
+,2019-10-18,Phoenix,Arizona,11.80
+,2019-10-18,Philadelphia,Pennsylvania,26.70
+,2019-10-18,San Antonio,Texas,23.30
+,2019-10-18,San Diego,California,12.50
+,2019-10-18,Dallas,Texas,17.20
+,2019-10-18,San Jose,California,29.30
+,2019-10-19,New York,New York,28.50
+,2019-10-19,Los Angeles,California,26.20
+,2019-10-19,Chicago,Illinois,15.80
+,2019-10-19,Houston,Texas,22.90
+,2019-10-19,Phoenix,Arizona,16.20
+,2019-10-19,Philadelphia,Pennsylvania,21.10
+,2019-10-19,San Antonio,Texas,12.20
+,2019-10-19,San Diego,California,13.40
+,2019-10-19,Dallas,Texas,18.00
+,2019-10-19,San Jose,California,17.00
+,2019-10-20,New York,New York,20.60
+,2019-10-20,Los Angeles,California,15.60
+,2019-10-20,Chicago,Illinois,21.30
+,2019-10-20,Houston,Texas,10.90
+,2019-10-20,Phoenix,Arizona,24.40
+,2019-10-20,Philadelphia,Pennsylvania,15.80
+,2019-10-20,San Antonio,Texas,18.10
+,2019-10-20,San Diego,California,25.80
+,2019-10-20,Dallas,Texas,26.50
+,2019-10-20,San Jose,California,16.70
+,2019-10-21,New York,New York,22.60
+,2019-10-21,Los Angeles,California,26.70
+,2019-10-21,Chicago,Illinois,15.90
+,2019-10-21,Houston,Texas,21.40
+,2019-10-21,Phoenix,Arizona,11.00
+,2019-10-21,Philadelphia,Pennsylvania,12.80
+,2019-10-21,San Antonio,Texas,24.40
+,2019-10-21,San Diego,California,16.30
+,2019-10-21,Dallas,Texas,18.00
+,2019-10-21,San Jose,California,20.30
+,2019-10-22,New York,New York,23.40
+,2019-10-22,Los Angeles,California,16.50
+,2019-10-22,Chicago,Illinois,11.90
+,2019-10-22,Houston,Texas,30.00
+,2019-10-22,Phoenix,Arizona,18.70
+,2019-10-22,Philadelphia,Pennsylvania,23.90
+,2019-10-22,San Antonio,Texas,17.30
+,2019-10-22,San Diego,California,20.60
+,2019-10-22,Dallas,Texas,27.80
+,2019-10-22,San Jose,California,26.70
+,2019-10-23,New York,New York,10.10
+,2019-10-23,Los Angeles,California,23.80
+,2019-10-23,Chicago,Illinois,18.90
+,2019-10-23,Houston,Texas,19.50
+,2019-10-23,Phoenix,Arizona,27.70
+,2019-10-23,Philadelphia,Pennsylvania,20.80
+,2019-10-23,San Antonio,Texas,16.40
+,2019-10-23,San Diego,California,23.20
+,2019-10-23,Dallas,Texas,17.80
+,2019-10-23,San Jose,California,25.30
+,2019-10-24,New York,New York,22.90
+,2019-10-24,Los Angeles,California,28.00
+,2019-10-24,Chicago,Illinois,29.20
+,2019-10-24,Houston,Texas,28.20
+,2019-10-24,Phoenix,Arizona,25.50
+,2019-10-24,Philadelphia,Pennsylvania,15.70
+,2019-10-24,San Antonio,Texas,21.70
+,2019-10-24,San Diego,California,27.10
+,2019-10-24,Dallas,Texas,25.20
+,2019-10-24,San Jose,California,15.70
+,2019-10-25,New York,New York,12.00
+,2019-10-25,Los Angeles,California,19.90
+,2019-10-25,Chicago,Illinois,24.60
+,2019-10-25,Houston,Texas,16.60
+,2019-10-25,Phoenix,Arizona,17.50
+,2019-10-25,Philadelphia,Pennsylvania,25.50
+,2019-10-25,San Antonio,Texas,26.70
+,2019-10-25,San Diego,California,10.40
+,2019-10-25,Dallas,Texas,28.30
+,2019-10-25,San Jose,California,20.60
+,2019-10-26,New York,New York,13.80
+,2019-10-26,Los Angeles,California,22.00
+,2019-10-26,Chicago,Illinois,25.00
+,2019-10-26,Houston,Texas,14.60
+,2019-10-26,Phoenix,Arizona,22.80
+,2019-10-26,Philadelphia,Pennsylvania,28.80
+,2019-10-26,San Antonio,Texas,13.30
+,2019-10-26,San Diego,California,24.20
+,2019-10-26,Dallas,Texas,12.90
+,2019-10-26,San Jose,California,24.40
+,2019-10-27,New York,New York,15.20
+,2019-10-27,Los Angeles,California,18.70
+,2019-10-27,Chicago,Illinois,20.60
+,2019-10-27,Houston,Texas,21.00
+,2019-10-27,Phoenix,Arizona,29.40
+,2019-10-27,Philadelphia,Pennsylvania,17.90
+,2019-10-27,San Antonio,Texas,10.60
+,2019-10-27,San Diego,California,28.80
+,2019-10-27,Dallas,Texas,19.30
+,2019-10-27,San Jose,California,22.80
+,2019-10-28,New York,New York,25.20
+,2019-10-28,Los Angeles,California,14.10
+,2019-10-28,Chicago,Illinois,13.80
+,2019-10-28,Houston,Texas,24.90
+,2019-10-28,Phoenix,Arizona,27.00
+,2019-10-28,Philadelphia,Pennsylvania,19.90
+,2019-10-28,San Antonio,Texas,29.30
+,2019-10-28,San Diego,California,19.10
+,2019-10-28,Dallas,Texas,18.20
+,2019-10-28,San Jose,California,21.60
+,2019-10-29,New York,New York,19.60
+,2019-10-29,Los Angeles,California,29.00
+,2019-10-29,Chicago,Illinois,19.30
+,2019-10-29,Houston,Texas,22.30
+,2019-10-29,Phoenix,Arizona,27.60
+,2019-10-29,Philadelphia,Pennsylvania,27.40
+,2019-10-29,San Antonio,Texas,16.60
+,2019-10-29,San Diego,California,21.10
+,2019-10-29,Dallas,Texas,16.30
+,2019-10-29,San Jose,California,21.50
+,2019-10-30,New York,New York,24.60
+,2019-10-30,Los Angeles,California,20.90
+,2019-10-30,Chicago,Illinois,17.30
+,2019-10-30,Houston,Texas,10.30
+,2019-10-30,Phoenix,Arizona,23.10
+,2019-10-30,Philadelphia,Pennsylvania,15.10
+,2019-10-30,San Antonio,Texas,25.80
+,2019-10-30,San Diego,California,12.40
+,2019-10-30,Dallas,Texas,23.00
+,2019-10-30,San Jose,California,18.00
+,2019-10-31,New York,New York,23.30
+,2019-10-31,Los Angeles,California,21.50
+,2019-10-31,Chicago,Illinois,26.50
+,2019-10-31,Houston,Texas,28.60
+,2019-10-31,Phoenix,Arizona,15.10
+,2019-10-31,Philadelphia,Pennsylvania,20.60
+,2019-10-31,San Antonio,Texas,19.50
+,2019-10-31,San Diego,California,12.00
+,2019-10-31,Dallas,Texas,23.10
+,2019-10-31,San Jose,California,25.70
+,2019-11-01,New York,New York,13.60
+,2019-11-01,Los Angeles,California,29.10
+,2019-11-01,Chicago,Illinois,21.70
+,2019-11-01,Houston,Texas,13.80
+,2019-11-01,Phoenix,Arizona,28.80
+,2019-11-01,Philadelphia,Pennsylvania,22.90
+,2019-11-01,San Antonio,Texas,18.40
+,2019-11-01,San Diego,California,29.50
+,2019-11-01,Dallas,Texas,22.00
+,2019-11-01,San Jose,California,19.30
+,2019-11-02,New York,New York,22.60
+,2019-11-02,Los Angeles,California,24.90
+,2019-11-02,Chicago,Illinois,16.00
+,2019-11-02,Houston,Texas,10.40
+,2019-11-02,Phoenix,Arizona,20.90
+,2019-11-02,Philadelphia,Pennsylvania,20.20
+,2019-11-02,San Antonio,Texas,12.40
+,2019-11-02,San Diego,California,19.00
+,2019-11-02,Dallas,Texas,19.80
+,2019-11-02,San Jose,California,19.00
+,2019-11-03,New York,New York,29.60
+,2019-11-03,Los Angeles,California,10.50
+,2019-11-03,Chicago,Illinois,20.30
+,2019-11-03,Houston,Texas,15.10
+,2019-11-03,Phoenix,Arizona,28.00
+,2019-11-03,Philadelphia,Pennsylvania,14.30
+,2019-11-03,San Antonio,Texas,18.20
+,2019-11-03,San Diego,California,27.60
+,2019-11-03,Dallas,Texas,13.10
+,2019-11-03,San Jose,California,17.50
+,2019-11-04,New York,New York,24.60
+,2019-11-04,Los Angeles,California,15.60
+,2019-11-04,Chicago,Illinois,12.60
+,2019-11-04,Houston,Texas,15.00
+,2019-11-04,Phoenix,Arizona,18.70
+,2019-11-04,Philadelphia,Pennsylvania,23.50
+,2019-11-04,San Antonio,Texas,23.50
+,2019-11-04,San Diego,California,13.20
+,2019-11-04,Dallas,Texas,24.80
+,2019-11-04,San Jose,California,16.30
+,2019-11-05,New York,New York,10.60
+,2019-11-05,Los Angeles,California,26.00
+,2019-11-05,Chicago,Illinois,28.80
+,2019-11-05,Houston,Texas,17.70
+,2019-11-05,Phoenix,Arizona,15.60
+,2019-11-05,Philadelphia,Pennsylvania,13.10
+,2019-11-05,San Antonio,Texas,19.60
+,2019-11-05,San Diego,California,21.40
+,2019-11-05,Dallas,Texas,17.00
+,2019-11-05,San Jose,California,19.60
+,2019-11-06,New York,New York,12.50
+,2019-11-06,Los Angeles,California,20.40
+,2019-11-06,Chicago,Illinois,17.50
+,2019-11-06,Houston,Texas,12.50
+,2019-11-06,Phoenix,Arizona,25.70
+,2019-11-06,Philadelphia,Pennsylvania,28.20
+,2019-11-06,San Antonio,Texas,16.50
+,2019-11-06,San Diego,California,29.00
+,2019-11-06,Dallas,Texas,12.40
+,2019-11-06,San Jose,California,28.00
+,2019-11-07,New York,New York,11.20
+,2019-11-07,Los Angeles,California,16.00
+,2019-11-07,Chicago,Illinois,23.50
+,2019-11-07,Houston,Texas,21.20
+,2019-11-07,Phoenix,Arizona,27.40
+,2019-11-07,Philadelphia,Pennsylvania,27.60
+,2019-11-07,San Antonio,Texas,25.10
+,2019-11-07,San Diego,California,15.40
+,2019-11-07,Dallas,Texas,29.50
+,2019-11-07,San Jose,California,23.10
+,2019-11-08,New York,New York,20.80
+,2019-11-08,Los Angeles,California,27.30
+,2019-11-08,Chicago,Illinois,21.90
+,2019-11-08,Houston,Texas,20.00
+,2019-11-08,Phoenix,Arizona,20.50
+,2019-11-08,Philadelphia,Pennsylvania,26.10
+,2019-11-08,San Antonio,Texas,29.50
+,2019-11-08,San Diego,California,25.00
+,2019-11-08,Dallas,Texas,15.90
+,2019-11-08,San Jose,California,13.70
+,2019-11-09,New York,New York,16.70
+,2019-11-09,Los Angeles,California,27.10
+,2019-11-09,Chicago,Illinois,19.60
+,2019-11-09,Houston,Texas,11.90
+,2019-11-09,Phoenix,Arizona,11.50
+,2019-11-09,Philadelphia,Pennsylvania,18.40
+,2019-11-09,San Antonio,Texas,10.20
+,2019-11-09,San Diego,California,24.90
+,2019-11-09,Dallas,Texas,14.30
+,2019-11-09,San Jose,California,15.70
+,2019-11-10,New York,New York,20.50
+,2019-11-10,Los Angeles,California,26.20
+,2019-11-10,Chicago,Illinois,17.10
+,2019-11-10,Houston,Texas,22.70
+,2019-11-10,Phoenix,Arizona,18.30
+,2019-11-10,Philadelphia,Pennsylvania,11.20
+,2019-11-10,San Antonio,Texas,19.70
+,2019-11-10,San Diego,California,17.80
+,2019-11-10,Dallas,Texas,11.40
+,2019-11-10,San Jose,California,19.60
+,2019-11-11,New York,New York,24.50
+,2019-11-11,Los Angeles,California,12.20
+,2019-11-11,Chicago,Illinois,22.50
+,2019-11-11,Houston,Texas,22.20
+,2019-11-11,Phoenix,Arizona,27.60
+,2019-11-11,Philadelphia,Pennsylvania,23.40
+,2019-11-11,San Antonio,Texas,17.80
+,2019-11-11,San Diego,California,21.50
+,2019-11-11,Dallas,Texas,12.60
+,2019-11-11,San Jose,California,20.90
+,2019-11-12,New York,New York,21.70
+,2019-11-12,Los Angeles,California,23.50
+,2019-11-12,Chicago,Illinois,19.30
+,2019-11-12,Houston,Texas,26.50
+,2019-11-12,Phoenix,Arizona,16.10
+,2019-11-12,Philadelphia,Pennsylvania,24.80
+,2019-11-12,San Antonio,Texas,14.60
+,2019-11-12,San Diego,California,28.00
+,2019-11-12,Dallas,Texas,22.00
+,2019-11-12,San Jose,California,26.00
+,2019-11-13,New York,New York,22.20
+,2019-11-13,Los Angeles,California,19.40
+,2019-11-13,Chicago,Illinois,15.70
+,2019-11-13,Houston,Texas,12.00
+,2019-11-13,Phoenix,Arizona,23.70
+,2019-11-13,Philadelphia,Pennsylvania,17.70
+,2019-11-13,San Antonio,Texas,24.20
+,2019-11-13,San Diego,California,18.10
+,2019-11-13,Dallas,Texas,21.40
+,2019-11-13,San Jose,California,18.00
+,2019-11-14,New York,New York,23.60
+,2019-11-14,Los Angeles,California,26.10
+,2019-11-14,Chicago,Illinois,27.10
+,2019-11-14,Houston,Texas,22.60
+,2019-11-14,Phoenix,Arizona,25.90
+,2019-11-14,Philadelphia,Pennsylvania,23.00
+,2019-11-14,San Antonio,Texas,26.70
+,2019-11-14,San Diego,California,21.80
+,2019-11-14,Dallas,Texas,12.20
+,2019-11-14,San Jose,California,26.40
+,2019-11-15,New York,New York,29.70
+,2019-11-15,Los Angeles,California,22.60
+,2019-11-15,Chicago,Illinois,14.60
+,2019-11-15,Houston,Texas,13.50
+,2019-11-15,Phoenix,Arizona,11.50
+,2019-11-15,Philadelphia,Pennsylvania,18.70
+,2019-11-15,San Antonio,Texas,27.40
+,2019-11-15,San Diego,California,26.00
+,2019-11-15,Dallas,Texas,12.90
+,2019-11-15,San Jose,California,10.30
+,2019-11-16,New York,New York,18.80
+,2019-11-16,Los Angeles,California,14.50
+,2019-11-16,Chicago,Illinois,20.80
+,2019-11-16,Houston,Texas,19.20
+,2019-11-16,Phoenix,Arizona,21.10
+,2019-11-16,Philadelphia,Pennsylvania,25.90
+,2019-11-16,San Antonio,Texas,21.60
+,2019-11-16,San Diego,California,20.10
+,2019-11-16,Dallas,Texas,28.10
+,2019-11-16,San Jose,California,24.50
+,2019-11-17,New York,New York,13.20
+,2019-11-17,Los Angeles,California,24.30
+,2019-11-17,Chicago,Illinois,23.70
+,2019-11-17,Houston,Texas,13.60
+,2019-11-17,Phoenix,Arizona,25.10
+,2019-11-17,Philadelphia,Pennsylvania,11.20
+,2019-11-17,San Antonio,Texas,27.90
+,2019-11-17,San Diego,California,29.10
+,2019-11-17,Dallas,Texas,16.00
+,2019-11-17,San Jose,California,22.00
+,2019-11-18,New York,New York,17.70
+,2019-11-18,Los Angeles,California,25.10
+,2019-11-18,Chicago,Illinois,14.30
+,2019-11-18,Houston,Texas,24.60
+,2019-11-18,Phoenix,Arizona,16.40
+,2019-11-18,Philadelphia,Pennsylvania,16.90
+,2019-11-18,San Antonio,Texas,14.00
+,2019-11-18,San Diego,California,24.00
+,2019-11-18,Dallas,Texas,22.30
+,2019-11-18,San Jose,California,25.50
+,2019-11-19,New York,New York,27.00
+,2019-11-19,Los Angeles,California,18.20
+,2019-11-19,Chicago,Illinois,13.90
+,2019-11-19,Houston,Texas,13.30
+,2019-11-19,Phoenix,Arizona,24.70
+,2019-11-19,Philadelphia,Pennsylvania,28.90
+,2019-11-19,San Antonio,Texas,27.00
+,2019-11-19,San Diego,California,17.80
+,2019-11-19,Dallas,Texas,18.50
+,2019-11-19,San Jose,California,21.60
+,2019-11-20,New York,New York,13.80
+,2019-11-20,Los Angeles,California,11.70
+,2019-11-20,Chicago,Illinois,13.10
+,2019-11-20,Houston,Texas,29.50
+,2019-11-20,Phoenix,Arizona,16.50
+,2019-11-20,Philadelphia,Pennsylvania,16.00
+,2019-11-20,San Antonio,Texas,20.40
+,2019-11-20,San Diego,California,21.10
+,2019-11-20,Dallas,Texas,22.00
+,2019-11-20,San Jose,California,18.10
+,2019-11-21,New York,New York,28.20
+,2019-11-21,Los Angeles,California,15.80
+,2019-11-21,Chicago,Illinois,23.30
+,2019-11-21,Houston,Texas,28.40
+,2019-11-21,Phoenix,Arizona,18.30
+,2019-11-21,Philadelphia,Pennsylvania,26.10
+,2019-11-21,San Antonio,Texas,25.50
+,2019-11-21,San Diego,California,17.00
+,2019-11-21,Dallas,Texas,25.00
+,2019-11-21,San Jose,California,11.80
+,2019-11-22,New York,New York,26.90
+,2019-11-22,Los Angeles,California,10.60
+,2019-11-22,Chicago,Illinois,17.80
+,2019-11-22,Houston,Texas,15.10
+,2019-11-22,Phoenix,Arizona,10.80
+,2019-11-22,Philadelphia,Pennsylvania,15.50
+,2019-11-22,San Antonio,Texas,27.70
+,2019-11-22,San Diego,California,16.60
+,2019-11-22,Dallas,Texas,17.00
+,2019-11-22,San Jose,California,27.50
+,2019-11-23,New York,New York,18.90
+,2019-11-23,Los Angeles,California,13.30
+,2019-11-23,Chicago,Illinois,17.40
+,2019-11-23,Houston,Texas,28.30
+,2019-11-23,Phoenix,Arizona,14.60
+,2019-11-23,Philadelphia,Pennsylvania,26.50
+,2019-11-23,San Antonio,Texas,18.40
+,2019-11-23,San Diego,California,18.60
+,2019-11-23,Dallas,Texas,18.00
+,2019-11-23,San Jose,California,13.30
+,2019-11-24,New York,New York,13.60
+,2019-11-24,Los Angeles,California,17.10
+,2019-11-24,Chicago,Illinois,28.90
+,2019-11-24,Houston,Texas,19.80
+,2019-11-24,Phoenix,Arizona,29.90
+,2019-11-24,Philadelphia,Pennsylvania,25.20
+,2019-11-24,San Antonio,Texas,17.30
+,2019-11-24,San Diego,California,28.60
+,2019-11-24,Dallas,Texas,26.30
+,2019-11-24,San Jose,California,14.50
+,2019-11-25,New York,New York,25.00
+,2019-11-25,Los Angeles,California,12.30
+,2019-11-25,Chicago,Illinois,13.90
+,2019-11-25,Houston,Texas,28.70
+,2019-11-25,Phoenix,Arizona,19.50
+,2019-11-25,Philadelphia,Pennsylvania,14.30
+,2019-11-25,San Antonio,Texas,14.30
+,2019-11-25,San Diego,California,27.80
+,2019-11-25,Dallas,Texas,10.60
+,2019-11-25,San Jose,California,23.00
+,2019-11-26,New York,New York,11.60
+,2019-11-26,Los Angeles,California,23.40
+,2019-11-26,Chicago,Illinois,11.00
+,2019-11-26,Houston,Texas,21.90
+,2019-11-26,Phoenix,Arizona,14.00
+,2019-11-26,Philadelphia,Pennsylvania,10.50
+,2019-11-26,San Antonio,Texas,14.70
+,2019-11-26,San Diego,California,22.60
+,2019-11-26,Dallas,Texas,21.50
+,2019-11-26,San Jose,California,24.40
+,2019-11-27,New York,New York,27.30
+,2019-11-27,Los Angeles,California,25.50
+,2019-11-27,Chicago,Illinois,14.70
+,2019-11-27,Houston,Texas,16.00
+,2019-11-27,Phoenix,Arizona,18.10
+,2019-11-27,Philadelphia,Pennsylvania,24.90
+,2019-11-27,San Antonio,Texas,16.10
+,2019-11-27,San Diego,California,17.50
+,2019-11-27,Dallas,Texas,13.90
+,2019-11-27,San Jose,California,19.80
+,2019-11-28,New York,New York,19.10
+,2019-11-28,Los Angeles,California,11.70
+,2019-11-28,Chicago,Illinois,14.80
+,2019-11-28,Houston,Texas,26.90
+,2019-11-28,Phoenix,Arizona,23.10
+,2019-11-28,Philadelphia,Pennsylvania,11.40
+,2019-11-28,San Antonio,Texas,29.80
+,2019-11-28,San Diego,California,22.70
+,2019-11-28,Dallas,Texas,25.20
+,2019-11-28,San Jose,California,27.90
+,2019-11-29,New York,New York,23.50
+,2019-11-29,Los Angeles,California,25.10
+,2019-11-29,Chicago,Illinois,27.40
+,2019-11-29,Houston,Texas,21.80
+,2019-11-29,Phoenix,Arizona,28.10
+,2019-11-29,Philadelphia,Pennsylvania,18.60
+,2019-11-29,San Antonio,Texas,16.20
+,2019-11-29,San Diego,California,21.60
+,2019-11-29,Dallas,Texas,14.50
+,2019-11-29,San Jose,California,17.50
+,2019-11-30,New York,New York,24.50
+,2019-11-30,Los Angeles,California,17.70
+,2019-11-30,Chicago,Illinois,29.90
+,2019-11-30,Houston,Texas,14.60
+,2019-11-30,Phoenix,Arizona,13.50
+,2019-11-30,Philadelphia,Pennsylvania,24.70
+,2019-11-30,San Antonio,Texas,29.80
+,2019-11-30,San Diego,California,24.10
+,2019-11-30,Dallas,Texas,22.40
+,2019-11-30,San Jose,California,28.20
+,2019-12-01,New York,New York,6.80
+,2019-12-01,Los Angeles,California,11.60
+,2019-12-01,Chicago,Illinois,-3.50
+,2019-12-01,Houston,Texas,13.60
+,2019-12-01,Phoenix,Arizona,3.80
+,2019-12-01,Philadelphia,Pennsylvania,5.40
+,2019-12-01,San Antonio,Texas,7.90
+,2019-12-01,San Diego,California,5.60
+,2019-12-01,Dallas,Texas,13.60
+,2019-12-01,San Jose,California,12.50
+,2019-12-02,New York,New York,1.30
+,2019-12-02,Los Angeles,California,0.60
+,2019-12-02,Chicago,Illinois,6.90
+,2019-12-02,Houston,Texas,14.50
+,2019-12-02,Phoenix,Arizona,14.50
+,2019-12-02,Philadelphia,Pennsylvania,3.10
+,2019-12-02,San Antonio,Texas,-5.80
+,2019-12-02,San Diego,California,10.50
+,2019-12-02,Dallas,Texas,-5.70
+,2019-12-02,San Jose,California,-0.80
+,2019-12-03,New York,New York,0.30
+,2019-12-03,Los Angeles,California,9.40
+,2019-12-03,Chicago,Illinois,-8.30
+,2019-12-03,Houston,Texas,7.50
+,2019-12-03,Phoenix,Arizona,-6.60
+,2019-12-03,Philadelphia,Pennsylvania,-0.50
+,2019-12-03,San Antonio,Texas,8.50
+,2019-12-03,San Diego,California,14.60
+,2019-12-03,Dallas,Texas,-2.20
+,2019-12-03,San Jose,California,14.50
+,2019-12-04,New York,New York,6.30
+,2019-12-04,Los Angeles,California,-1.60
+,2019-12-04,Chicago,Illinois,-3.40
+,2019-12-04,Houston,Texas,12.90
+,2019-12-04,Phoenix,Arizona,-9.20
+,2019-12-04,Philadelphia,Pennsylvania,1.90
+,2019-12-04,San Antonio,Texas,2.10
+,2019-12-04,San Diego,California,14.40
+,2019-12-04,Dallas,Texas,-7.20
+,2019-12-04,San Jose,California,14.40
+,2019-12-05,New York,New York,-0.60
+,2019-12-05,Los Angeles,California,6.70
+,2019-12-05,Chicago,Illinois,0.70
+,2019-12-05,Houston,Texas,3.60
+,2019-12-05,Phoenix,Arizona,0.10
+,2019-12-05,Philadelphia,Pennsylvania,-6.40
+,2019-12-05,San Antonio,Texas,0.70
+,2019-12-05,San Diego,California,-5.80
+,2019-12-05,Dallas,Texas,-8.90
+,2019-12-05,San Jose,California,-0.30
+,2019-12-06,New York,New York,-3.10
+,2019-12-06,Los Angeles,California,-9.50
+,2019-12-06,Chicago,Illinois,2.40
+,2019-12-06,Houston,Texas,6.00
+,2019-12-06,Phoenix,Arizona,1.00
+,2019-12-06,Philadelphia,Pennsylvania,-1.50
+,2019-12-06,San Antonio,Texas,3.80
+,2019-12-06,San Diego,California,-1.70
+,2019-12-06,Dallas,Texas,1.60
+,2019-12-06,San Jose,California,7.40
+,2019-12-07,New York,New York,3.90
+,2019-12-07,Los Angeles,California,1.10
+,2019-12-07,Chicago,Illinois,1.60
+,2019-12-07,Houston,Texas,0.70
+,2019-12-07,Phoenix,Arizona,3.90
+,2019-12-07,Philadelphia,Pennsylvania,-4.50
+,2019-12-07,San Antonio,Texas,4.30
+,2019-12-07,San Diego,California,-8.00
+,2019-12-07,Dallas,Texas,10.30
+,2019-12-07,San Jose,California,12.90
+,2019-12-08,New York,New York,-7.50
+,2019-12-08,Los Angeles,California,11.90
+,2019-12-08,Chicago,Illinois,2.30
+,2019-12-08,Houston,Texas,-9.80
+,2019-12-08,Phoenix,Arizona,9.20
+,2019-12-08,Philadelphia,Pennsylvania,14.30
+,2019-12-08,San Antonio,Texas,-7.50
+,2019-12-08,San Diego,California,-7.70
+,2019-12-08,Dallas,Texas,-5.40
+,2019-12-08,San Jose,California,2.70
+,2019-12-09,New York,New York,-6.30
+,2019-12-09,Los Angeles,California,-0.60
+,2019-12-09,Chicago,Illinois,15.00
+,2019-12-09,Houston,Texas,14.90
+,2019-12-09,Phoenix,Arizona,12.60
+,2019-12-09,Philadelphia,Pennsylvania,13.40
+,2019-12-09,San Antonio,Texas,-9.10
+,2019-12-09,San Diego,California,12.70
+,2019-12-09,Dallas,Texas,0.00
+,2019-12-09,San Jose,California,9.80
+,2019-12-10,New York,New York,14.10
+,2019-12-10,Los Angeles,California,-2.40
+,2019-12-10,Chicago,Illinois,5.50
+,2019-12-10,Houston,Texas,-1.20
+,2019-12-10,Phoenix,Arizona,10.50
+,2019-12-10,Philadelphia,Pennsylvania,5.50
+,2019-12-10,San Antonio,Texas,-5.10
+,2019-12-10,San Diego,California,-0.10
+,2019-12-10,Dallas,Texas,1.80
+,2019-12-10,San Jose,California,1.90
+,2019-12-11,New York,New York,-9.10
+,2019-12-11,Los Angeles,California,2.60
+,2019-12-11,Chicago,Illinois,3.70
+,2019-12-11,Houston,Texas,-8.10
+,2019-12-11,Phoenix,Arizona,7.70
+,2019-12-11,Philadelphia,Pennsylvania,8.30
+,2019-12-11,San Antonio,Texas,-3.10
+,2019-12-11,San Diego,California,-1.10
+,2019-12-11,Dallas,Texas,11.30
+,2019-12-11,San Jose,California,-2.30
+,2019-12-12,New York,New York,7.80
+,2019-12-12,Los Angeles,California,-7.90
+,2019-12-12,Chicago,Illinois,10.60
+,2019-12-12,Houston,Texas,12.30
+,2019-12-12,Phoenix,Arizona,14.40
+,2019-12-12,Philadelphia,Pennsylvania,10.60
+,2019-12-12,San Antonio,Texas,8.60
+,2019-12-12,San Diego,California,7.40
+,2019-12-12,Dallas,Texas,-5.30
+,2019-12-12,San Jose,California,-2.20
+,2019-12-13,New York,New York,6.80
+,2019-12-13,Los Angeles,California,13.80
+,2019-12-13,Chicago,Illinois,14.00
+,2019-12-13,Houston,Texas,-6.70
+,2019-12-13,Phoenix,Arizona,3.80
+,2019-12-13,Philadelphia,Pennsylvania,-4.70
+,2019-12-13,San Antonio,Texas,-5.90
+,2019-12-13,San Diego,California,-5.30
+,2019-12-13,Dallas,Texas,4.60
+,2019-12-13,San Jose,California,7.00
+,2019-12-14,New York,New York,9.70
+,2019-12-14,Los Angeles,California,-3.70
+,2019-12-14,Chicago,Illinois,-8.10
+,2019-12-14,Houston,Texas,-6.00
+,2019-12-14,Phoenix,Arizona,-4.80
+,2019-12-14,Philadelphia,Pennsylvania,-9.80
+,2019-12-14,San Antonio,Texas,13.30
+,2019-12-14,San Diego,California,-8.50
+,2019-12-14,Dallas,Texas,-9.70
+,2019-12-14,San Jose,California,-0.20
+,2019-12-15,New York,New York,7.50
+,2019-12-15,Los Angeles,California,14.60
+,2019-12-15,Chicago,Illinois,7.30
+,2019-12-15,Houston,Texas,2.70
+,2019-12-15,Phoenix,Arizona,14.20
+,2019-12-15,Philadelphia,Pennsylvania,12.60
+,2019-12-15,San Antonio,Texas,13.20
+,2019-12-15,San Diego,California,-8.70
+,2019-12-15,Dallas,Texas,7.30
+,2019-12-15,San Jose,California,12.60
+,2019-12-16,New York,New York,-5.80
+,2019-12-16,Los Angeles,California,-6.20
+,2019-12-16,Chicago,Illinois,-0.70
+,2019-12-16,Houston,Texas,14.90
+,2019-12-16,Phoenix,Arizona,14.50
+,2019-12-16,Philadelphia,Pennsylvania,4.30
+,2019-12-16,San Antonio,Texas,-9.60
+,2019-12-16,San Diego,California,4.50
+,2019-12-16,Dallas,Texas,3.90
+,2019-12-16,San Jose,California,12.70
+,2019-12-17,New York,New York,-7.40
+,2019-12-17,Los Angeles,California,9.00
+,2019-12-17,Chicago,Illinois,11.20
+,2019-12-17,Houston,Texas,7.40
+,2019-12-17,Phoenix,Arizona,6.20
+,2019-12-17,Philadelphia,Pennsylvania,13.00
+,2019-12-17,San Antonio,Texas,-2.70
+,2019-12-17,San Diego,California,-7.00
+,2019-12-17,Dallas,Texas,-7.10
+,2019-12-17,San Jose,California,10.10
+,2019-12-18,New York,New York,6.70
+,2019-12-18,Los Angeles,California,3.20
+,2019-12-18,Chicago,Illinois,-3.30
+,2019-12-18,Houston,Texas,-5.10
+,2019-12-18,Phoenix,Arizona,-4.30
+,2019-12-18,Philadelphia,Pennsylvania,10.20
+,2019-12-18,San Antonio,Texas,-9.30
+,2019-12-18,San Diego,California,11.60
+,2019-12-18,Dallas,Texas,4.70
+,2019-12-18,San Jose,California,-6.60
+,2019-12-19,New York,New York,12.40
+,2019-12-19,Los Angeles,California,-7.10
+,2019-12-19,Chicago,Illinois,8.00
+,2019-12-19,Houston,Texas,7.60
+,2019-12-19,Phoenix,Arizona,-6.00
+,2019-12-19,Philadelphia,Pennsylvania,9.00
+,2019-12-19,San Antonio,Texas,8.90
+,2019-12-19,San Diego,California,-3.40
+,2019-12-19,Dallas,Texas,11.60
+,2019-12-19,San Jose,California,-2.30
+,2019-12-20,New York,New York,-8.20
+,2019-12-20,Los Angeles,California,-4.40
+,2019-12-20,Chicago,Illinois,4.00
+,2019-12-20,Houston,Texas,-5.60
+,2019-12-20,Phoenix,Arizona,13.80
+,2019-12-20,Philadelphia,Pennsylvania,10.60
+,2019-12-20,San Antonio,Texas,2.10
+,2019-12-20,San Diego,California,11.40
+,2019-12-20,Dallas,Texas,1.70
+,2019-12-20,San Jose,California,-5.60
+,2019-12-21,New York,New York,-9.00
+,2019-12-21,Los Angeles,California,-1.70
+,2019-12-21,Chicago,Illinois,-7.80
+,2019-12-21,Houston,Texas,10.00
+,2019-12-21,Phoenix,Arizona,11.30
+,2019-12-21,Philadelphia,Pennsylvania,4.80
+,2019-12-21,San Antonio,Texas,5.40
+,2019-12-21,San Diego,California,6.60
+,2019-12-21,Dallas,Texas,14.90
+,2019-12-21,San Jose,California,13.20
+,2019-12-22,New York,New York,-2.10
+,2019-12-22,Los Angeles,California,-8.80
+,2019-12-22,Chicago,Illinois,12.40
+,2019-12-22,Houston,Texas,4.50
+,2019-12-22,Phoenix,Arizona,4.30
+,2019-12-22,Philadelphia,Pennsylvania,-7.50
+,2019-12-22,San Antonio,Texas,-7.70
+,2019-12-22,San Diego,California,13.00
+,2019-12-22,Dallas,Texas,-4.70
+,2019-12-22,San Jose,California,10.90
+,2019-12-23,New York,New York,13.40
+,2019-12-23,Los Angeles,California,-1.00
+,2019-12-23,Chicago,Illinois,3.70
+,2019-12-23,Houston,Texas,10.50
+,2019-12-23,Phoenix,Arizona,9.80
+,2019-12-23,Philadelphia,Pennsylvania,9.70
+,2019-12-23,San Antonio,Texas,2.90
+,2019-12-23,San Diego,California,0.80
+,2019-12-23,Dallas,Texas,11.90
+,2019-12-23,San Jose,California,-4.30
+,2019-12-24,New York,New York,-3.40
+,2019-12-24,Los Angeles,California,13.60
+,2019-12-24,Chicago,Illinois,4.80
+,2019-12-24,Houston,Texas,2.30
+,2019-12-24,Phoenix,Arizona,10.70
+,2019-12-24,Philadelphia,Pennsylvania,3.00
+,2019-12-24,San Antonio,Texas,14.10
+,2019-12-24,San Diego,California,3.30
+,2019-12-24,Dallas,Texas,-4.70
+,2019-12-24,San Jose,California,9.50
+,2019-12-25,New York,New York,9.40
+,2019-12-25,Los Angeles,California,-8.80
+,2019-12-25,Chicago,Illinois,-9.20
+,2019-12-25,Houston,Texas,14.80
+,2019-12-25,Phoenix,Arizona,-1.10
+,2019-12-25,Philadelphia,Pennsylvania,-8.00
+,2019-12-25,San Antonio,Texas,12.00
+,2019-12-25,San Diego,California,0.30
+,2019-12-25,Dallas,Texas,-1.20
+,2019-12-25,San Jose,California,-4.80
+,2019-12-26,New York,New York,4.80
+,2019-12-26,Los Angeles,California,10.70
+,2019-12-26,Chicago,Illinois,3.10
+,2019-12-26,Houston,Texas,-9.20
+,2019-12-26,Phoenix,Arizona,9.20
+,2019-12-26,Philadelphia,Pennsylvania,8.90
+,2019-12-26,San Antonio,Texas,8.70
+,2019-12-26,San Diego,California,3.80
+,2019-12-26,Dallas,Texas,0.90
+,2019-12-26,San Jose,California,3.40
+,2019-12-27,New York,New York,-9.20
+,2019-12-27,Los Angeles,California,5.70
+,2019-12-27,Chicago,Illinois,-9.20
+,2019-12-27,Houston,Texas,-3.50
+,2019-12-27,Phoenix,Arizona,-6.70
+,2019-12-27,Philadelphia,Pennsylvania,9.00
+,2019-12-27,San Antonio,Texas,4.70
+,2019-12-27,San Diego,California,5.50
+,2019-12-27,Dallas,Texas,1.10
+,2019-12-27,San Jose,California,4.40
+,2019-12-28,New York,New York,11.20
+,2019-12-28,Los Angeles,California,13.10
+,2019-12-28,Chicago,Illinois,-9.10
+,2019-12-28,Houston,Texas,8.70
+,2019-12-28,Phoenix,Arizona,8.90
+,2019-12-28,Philadelphia,Pennsylvania,7.90
+,2019-12-28,San Antonio,Texas,5.90
+,2019-12-28,San Diego,California,0.70
+,2019-12-28,Dallas,Texas,8.30
+,2019-12-28,San Jose,California,-6.40
+,2019-12-29,New York,New York,4.20
+,2019-12-29,Los Angeles,California,-5.00
+,2019-12-29,Chicago,Illinois,6.80
+,2019-12-29,Houston,Texas,5.60
+,2019-12-29,Phoenix,Arizona,-2.20
+,2019-12-29,Philadelphia,Pennsylvania,-5.50
+,2019-12-29,San Antonio,Texas,3.70
+,2019-12-29,San Diego,California,14.20
+,2019-12-29,Dallas,Texas,12.00
+,2019-12-29,San Jose,California,6.20
+,2019-12-30,New York,New York,8.30
+,2019-12-30,Los Angeles,California,1.20
+,2019-12-30,Chicago,Illinois,-0.20
+,2019-12-30,Houston,Texas,3.50
+,2019-12-30,Phoenix,Arizona,-6.90
+,2019-12-30,Philadelphia,Pennsylvania,-0.80
+,2019-12-30,San Antonio,Texas,2.20
+,2019-12-30,San Diego,California,0.80
+,2019-12-30,Dallas,Texas,7.70
+,2019-12-30,San Jose,California,-6.50
+,2019-12-31,New York,New York,-8.80
+,2019-12-31,Los Angeles,California,12.00
+,2019-12-31,Chicago,Illinois,8.80
+,2019-12-31,Houston,Texas,1.20
+,2019-12-31,Phoenix,Arizona,3.30
+,2019-12-31,Philadelphia,Pennsylvania,8.50
+,2019-12-31,San Antonio,Texas,-6.60
+,2019-12-31,San Diego,California,2.50
+,2019-12-31,Dallas,Texas,14.80
+,2019-12-31,San Jose,California,-6.50
